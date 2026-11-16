@@ -1,0 +1,2839 @@
+[
+ {
+  "council": "Alpine Shire Council",
+  "council_id": "alpine-shire-council",
+  "state": "Victoria",
+  "abs_name": "Alpine (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Strategic Planning Coordinator",
+    "job_url": "https://www.alpineshire.vic.gov.au/about-us/careers/current-vacancies/strategic-planning-coordinator"
+   }
+  ]
+ },
+ {
+  "council": "Ararat Rural City Council",
+  "council_id": "ararat-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Ararat (RC)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Plant Operator",
+    "job_url": "https://www.ararat.vic.gov.au/plant-operator"
+   },
+   {
+    "title": "Development Compliance Officer",
+    "job_url": "https://www.ararat.vic.gov.au/development-compliance-officer"
+   },
+   {
+    "title": "Civil Construction Trainee",
+    "job_url": "https://www.ararat.vic.gov.au/civil-construction-trainee"
+   },
+   {
+    "title": "Ararat Fitness Centre (Casual Positions)",
+    "job_url": "https://www.ararat.vic.gov.au/council/careers/ararat-fitness-centre-casual-positions"
+   },
+   {
+    "title": "Learn to Swim Teacher - Ararat Fitness Centre",
+    "job_url": "https://www.ararat.vic.gov.au/council/careers/learn-swim-teacher-ararat-fitness-centre-0"
+   }
+  ]
+ },
+ {
+  "council": "Ballarat City Council",
+  "council_id": "ballarat-city-council",
+  "state": "Victoria",
+  "abs_name": "Ballarat (C)",
+  "jobs_count": 15,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Asset Surveillance Officer",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/8KmyLk/Senior-Asset-Surveillance-Officer?source=public"
+   },
+   {
+    "title": "Street Cleaner Operator",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/2EIxC6/Street-Cleaner-Operator?source=public"
+   },
+   {
+    "title": "Kerbside Waste Collection Driver",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/00L0MF/Kerbside-Waste-Collection-Driver?source=public"
+   },
+   {
+    "title": "Volunteers - Age-friendly Ambassadors 2027",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/tybGJs/Volunteers---Age-friendly-Ambassadors-2027?source=public"
+   },
+   {
+    "title": "Qualified Horticulturist",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/qGiYnj/Qualified-Horticulturist?source=public"
+   },
+   {
+    "title": "Early Childhood Educator CERT III and Diploma (Casual)",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/QuHLIy/Early-Childhood-Educator-CERT-III-and-Diploma--Casual-?source=public"
+   },
+   {
+    "title": "Early Childhood Teacher (Casual)",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/FFr2o6/Early-Childhood-Teacher--Casual-?source=public"
+   },
+   {
+    "title": "Team Leader Girrabanya Integrated Children's Centre",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/6qdtyr/Team-Leader-Girrabanya-Integrated-Children-s-Centre?source=public"
+   },
+   {
+    "title": "Team Leader Nursery & Collections",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/jXzses/Team-Leader-Nursery---Collections?source=public"
+   },
+   {
+    "title": "Youth Services Volunteers 2027",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/Ip3UWq/Youth-Services-Volunteers-2027?source=public"
+   },
+   {
+    "title": "Tertiary Student Placement",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/EwOyiB/Tertiary-Student-Placement?source=public"
+   },
+   {
+    "title": "Aquatic Education Teacher (Ballarat Aquatic Lifestyle Centre)",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/f3NbDq/Aquatic-Education-Teacher--Ballarat-Aquatic-Lifestyle-Centre-?source=public"
+   },
+   {
+    "title": "Volunteer - Assistant Gymnastics Coach",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/ZsrqOy/Volunteer---Assistant-Gymnastics-Coach?source=public"
+   },
+   {
+    "title": "Volunteer - Parent Place",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/noHIC9/Volunteer---Parent-Place?source=public"
+   },
+   {
+    "title": "Social Activities Volunteer",
+    "job_url": "https://ballarat.pulsesoftware.com/Pulse/apply/R2eR6p/Social-Activities-Volunteer?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Banyule City Council",
+  "council_id": "banyule-city-council",
+  "state": "Victoria",
+  "abs_name": "Banyule (C)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Student Planner",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/r5jF2j/Student-Planner?source=public"
+   },
+   {
+    "title": "Infringements Review & Business Support Officer",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/CBrpDn/Infringements-Review---Business-Support-Officer?source=public"
+   },
+   {
+    "title": "Infrastructure Services Team Leader",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/MHGVB8/Infrastructure-Services-Team-Leader?source=public"
+   },
+   {
+    "title": "Universal MCH Team Leader",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/EUaoRK/Universal-MCH-Team-Leader?source=public"
+   },
+   {
+    "title": "Multiskilled Operator (Cleansing)",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/h481Ip/Multiskilled-Operator--Cleansing-?source=public"
+   },
+   {
+    "title": "Solo Operator",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/PBS7u7/Solo-Operator?source=public"
+   },
+   {
+    "title": "Aquatic Education Instructor - casual",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/cBimGv/Aquatic-Education-Instructor---casual?source=public"
+   },
+   {
+    "title": "Aquatic Education Instructor",
+    "job_url": "https://banyule.pulsesoftware.com/Pulse/apply/jlmUDB/Aquatic-Education-Instructor?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Bass Coast Shire Council",
+  "council_id": "bass-coast-shire-council",
+  "state": "Victoria",
+  "abs_name": "Bass Coast (S)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Arboriculture Team Member",
+    "job_url": "https://basscoast.t1cloud.com/T1Default/CiAnywhere/Web/BASSCOAST/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=810afdff-d06e-4952-b190-7ce2b1c973af"
+   },
+   {
+    "title": "Climate Emergency Project Officer",
+    "job_url": "https://basscoast.t1cloud.com/T1Default/CiAnywhere/Web/BASSCOAST/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=774fa3a1-8ee6-4e09-9c53-655bcfe0dbee"
+   },
+   {
+    "title": "Community Safety Support Officer",
+    "job_url": "https://basscoast.t1cloud.com/T1Default/CiAnywhere/Web/BASSCOAST/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=847ec675-0df6-41a2-9279-1bcef6b08746"
+   },
+   {
+    "title": "Head of Arts, Culture & Heritage",
+    "job_url": "https://basscoast.t1cloud.com/T1Default/CiAnywhere/Web/BASSCOAST/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=3fc3027f-721e-4937-bb2d-d8f33f6bc2d6"
+   },
+   {
+    "title": "Systems Project Support Officer",
+    "job_url": "https://basscoast.t1cloud.com/T1Default/CiAnywhere/Web/BASSCOAST/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=2598170c-bd0a-4974-8a91-89deb8a51d3e"
+   }
+  ]
+ },
+ {
+  "council": "Baw Baw Shire Council",
+  "council_id": "baw-baw-shire-council",
+  "state": "Victoria",
+  "abs_name": "Baw Baw (S)",
+  "jobs_count": 0,
+  "job_status": "zero-roles",
+  "scraped_at": "",
+  "jobs": []
+ },
+ {
+  "council": "Bayside City Council",
+  "council_id": "bayside-city-council",
+  "state": "Victoria",
+  "abs_name": "Bayside (C)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Development Services Support Officer",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493070"
+   },
+   {
+    "title": "Organisational Development Advisor",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493087"
+   },
+   {
+    "title": "Recruitment and HR Officer",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493090"
+   },
+   {
+    "title": "Data & Reporting Lead",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493092"
+   },
+   {
+    "title": "Customer Service Officer (Casual Positions)",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493089"
+   },
+   {
+    "title": "HR Advisor",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493091"
+   },
+   {
+    "title": "Care Finder & Community Assessment Officer",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493086"
+   },
+   {
+    "title": "EPMO Project Management Information System (PMIS) Specialist",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/493078"
+   },
+   {
+    "title": "Domestic Cleaner",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/492281"
+   },
+   {
+    "title": "Support Worker (no aged care experience or qualification required)",
+    "job_url": "https://careers.bayside.vic.gov.au/jobs/492278"
+   }
+  ]
+ },
+ {
+  "council": "Benalla Rural City Council",
+  "council_id": "benalla-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Benalla (RC)",
+  "jobs_count": 0,
+  "job_status": "zero-roles",
+  "scraped_at": "",
+  "jobs": []
+ },
+ {
+  "council": "Boroondara City Council",
+  "council_id": "boroondara-city-council",
+  "state": "Victoria",
+  "abs_name": "Boroondara (C)",
+  "jobs_count": 9,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "MCH Team Leader",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15310&company=cityofboroP"
+   },
+   {
+    "title": "Local Laws Officer - 2 positions available",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15320&company=cityofboroP"
+   },
+   {
+    "title": "Asset Protection Permits Officer",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15302&company=cityofboroP"
+   },
+   {
+    "title": "Gallery attendant",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15284&company=cityofboroP"
+   },
+   {
+    "title": "Coordinator Service Outcomes",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15307&company=cityofboroP"
+   },
+   {
+    "title": "Finance Assurance Lead",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15292&company=cityofboroP"
+   },
+   {
+    "title": "Casual School Crossing Supervisor (Expression of Interest)",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15158&company=cityofboroP"
+   },
+   {
+    "title": "School Crossing Supervisor - Expression of Interest",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=15156&company=cityofboroP"
+   },
+   {
+    "title": "Casual Maternal and Child Health (MCH) Nurse",
+    "job_url": "https://career10.successfactors.com/sfcareer/jobreqcareer?jobId=9733&company=cityofboroP"
+   }
+  ]
+ },
+ {
+  "council": "Borough of Queenscliffe",
+  "council_id": "borough-of-queenscliffe",
+  "state": "Victoria",
+  "abs_name": "Queenscliffe (B)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Caravan Park Attendant (casual, fixed term)",
+    "job_url": "https://www.queenscliffe.vic.gov.au/Your-Council/Career-opportunities/Caravan-Park-Attendant-casual-fixed-term"
+   }
+  ]
+ },
+ {
+  "council": "Brimbank City Council",
+  "council_id": "brimbank-city-council",
+  "state": "Victoria",
+  "abs_name": "Brimbank (C)",
+  "jobs_count": 7,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Qualified Horticulturalist",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/W1Psgq/Qualified-Horticulturalist?source=public"
+   },
+   {
+    "title": "Health, Safety and Wellbeing Advisor",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/Ayu1xE/Health--Safety-and-Wellbeing-Advisor?source=public"
+   },
+   {
+    "title": "Casual Relief School Crossing Supervisor",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/nzYa1D/Casual-Relief-School-Crossing-Supervisor?source=public"
+   },
+   {
+    "title": "Arborist",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/EAr9Ys/Arborist?source=public"
+   },
+   {
+    "title": "Library Systems and Emerging Technology Coordinator",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/oWkIaQ/Library-Systems-and-Emerging-Technology-Coordinator?source=public"
+   },
+   {
+    "title": "Swim Teacher (CASUAL)",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/iBWXHj/Swim-Teacher--CASUAL-?source=public"
+   },
+   {
+    "title": "Theatre Technician",
+    "job_url": "https://brimbank.pulsesoftware.com/Pulse/apply/0avJGh/Theatre-Technician?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Buloke Shire Council",
+  "council_id": "buloke-shire-council",
+  "state": "Victoria",
+  "abs_name": "Buloke (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Lifeguard 2026",
+    "job_url": "https://www.buloke.vic.gov.au/lifeguard-2026"
+   }
+  ]
+ },
+ {
+  "council": "Campaspe Shire Council",
+  "council_id": "campaspe-shire-council",
+  "state": "Victoria",
+  "abs_name": "Campaspe (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Commercial Business Coordinator",
+    "job_url": "https://www.campaspe.vic.gov.au/Our-council/Employment-tenders/Careers"
+   }
+  ]
+ },
+ {
+  "council": "Cardinia Shire Council",
+  "council_id": "cardinia-shire-council",
+  "state": "Victoria",
+  "abs_name": "Cardinia (S)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Payroll Officer",
+    "job_url": "https://external-jobboard.myrecruitmentplus.com/job-details/query/Payroll+Officer/in/Victoria/9846819/Recruiter=9762/"
+   },
+   {
+    "title": "Online Content Producer",
+    "job_url": "https://external-jobboard.myrecruitmentplus.com/job-details/query/Online+Content+Producer/in/Victoria/9846778/Recruiter=9762/"
+   },
+   {
+    "title": "Maternal & Child Health Nurse Casual",
+    "job_url": "https://external-jobboard.myrecruitmentplus.com/job-details/query/Maternal+andamp%3B+Child+Health+Nurse+Casual/in/Victoria/9843692/Recruiter=9762/"
+   },
+   {
+    "title": "Mechanic",
+    "job_url": "https://external-jobboard.myrecruitmentplus.com/job-details/query/Mechanic/in/Victoria/9833722/Recruiter=9762/"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://external-jobboard.myrecruitmentplus.com/job-details/query/School+Crossing+Supervisor/in/Victoria/9833475/Recruiter=9762/"
+   }
+  ]
+ },
+ {
+  "council": "Casey City Council",
+  "council_id": "casey-city-council",
+  "state": "Victoria",
+  "abs_name": "Casey (C)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Traffic Engineer",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497074"
+   },
+   {
+    "title": "Fleet Support Officer",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497075"
+   },
+   {
+    "title": "Principal Strategic Planner",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497071"
+   },
+   {
+    "title": "Information Management Systems Specialist",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497040"
+   },
+   {
+    "title": "IT Governance Officer",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497070"
+   },
+   {
+    "title": "Coordinator Workshop - Maintenance and Operations",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497072"
+   },
+   {
+    "title": "Manager of Infrastructure and Open Space",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/497058"
+   },
+   {
+    "title": "Expression of Interest - School Crossing Supervisor",
+    "job_url": "https://www.casey.vic.gov.au/careers/jobs/496933"
+   }
+  ]
+ },
+ {
+  "council": "Central Goldfields Shire Council",
+  "council_id": "central-goldfields-shire-council",
+  "state": "Victoria",
+  "abs_name": "Central Goldfields (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Coordinator Statutory Planning",
+    "job_url": "https://centralgoldfields.elmotalent.com.au/careers/default/job/view/16"
+   }
+  ]
+ },
+ {
+  "council": "Colac Otway Shire Council",
+  "council_id": "colac-otway-shire-council",
+  "state": "Victoria",
+  "abs_name": "Colac-Otway (S)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Community Care Worker (Qualified)",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS258-community-care-worker-qualified"
+   },
+   {
+    "title": "Community Care Worker (Unqualified)",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS257-community-care-worker-unqualified"
+   },
+   {
+    "title": "Coordinator Statutory Planning",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS253-coordinator-statutory-planning"
+   },
+   {
+    "title": "Information Technology Officer - Service Desk",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS260-information-technology-officer-service-desk"
+   },
+   {
+    "title": "Management Accountant",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS259-management-accountant"
+   },
+   {
+    "title": "Multipurpose Officer/Plant Operator",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS255-multipurpose-officer-plant-operator"
+   },
+   {
+    "title": "Project Manager",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS254-project-manager"
+   },
+   {
+    "title": "Property and Rates Officer",
+    "job_url": "https://colac-otway-shire-council-ext.applynow.net.au/jobs/COS251-property-and-rates-officer"
+   }
+  ]
+ },
+ {
+  "council": "Corangamite Shire Council",
+  "council_id": "corangamite-shire-council",
+  "state": "Victoria",
+  "abs_name": "Corangamite (S)",
+  "jobs_count": 3,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Early Childhood Educator - Diploma Qualified or Working Towards",
+    "job_url": "https://www.corangamite.vic.gov.au/Council/Working-for-council/Early-Childhood-Educator-November-2026"
+   },
+   {
+    "title": "Community Development and Engagement Coordinator",
+    "job_url": "https://www.corangamite.vic.gov.au/Council/Working-for-council/Community-Development-and-Engagement-Coordinator"
+   },
+   {
+    "title": "Project Delivery Lead - Coastal Connect",
+    "job_url": "https://www.corangamite.vic.gov.au/Council/Working-for-council/Project-Delivery-Lead-Coastal-Connect"
+   }
+  ]
+ },
+ {
+  "council": "Darebin City Council",
+  "council_id": "darebin-city-council",
+  "state": "Victoria",
+  "abs_name": "Darebin (C)",
+  "jobs_count": 6,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Child Safe Project Officer",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=537B559C-1DD7-86B3-DEAC-ED61FD0B901C&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey&lid=97642460008&rmuh=E37D90F31B76817667025E512F4647B3FBE41985"
+   },
+   {
+    "title": "Program Leader Aquatic Operations",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=161BEA58-093E-1D54-2E68-ED62378800BE&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=97642460016&rmuh=08F82F464D2DE954931AFC94BD54C455D5D1E0B4"
+   },
+   {
+    "title": "Special Initiatives Lead - Business Development and Innovation",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=9863DD2C-AF36-6425-B2B2-ED790B8CE852&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=97642460024&rmuh=82B3C8177508D3E8DBD4E4153C25B1C66D4068F4"
+   },
+   {
+    "title": "Aboriginal Projects Officer",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=459BA93C-972E-08E4-AFDB-ECEE455F3A74&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=97642460032&rmuh=75AA8941D7A899348F2DF849F2EDE120E1A3CDE4"
+   },
+   {
+    "title": "Student Statutory Planner",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=CCCC424A-33C9-4FB5-8A7E-ED675914BCDE&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=97642460040&rmuh=B30D5704E861673500D1AC5C4EE628434FD5DAAC"
+   },
+   {
+    "title": "Program Leader Swim School",
+    "job_url": "https://darebinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=5F641928-36AA-AB39-25DC-ED4D8224F6AB&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=15eb2652%2D94f4%2D4c15%2Dad9e%2D96df1ce63460&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=97642460048&rmuh=AAE8F03D8FACD29BDE59F3D68B69A6E15771A6AC"
+   }
+  ]
+ },
+ {
+  "council": "East Gippsland Shire Council",
+  "council_id": "east-gippsland-shire-council",
+  "state": "Victoria",
+  "abs_name": "East Gippsland (S)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Business and Investment Facilitation Lead",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/T2DPqD/Business-and-Investment-Facilitation-Lead?source=public"
+   },
+   {
+    "title": "Industry Partnerships and Programs Coordinator",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/3LYsUe/Industry-Partnerships-and-Programs-Coordinator?source=public"
+   },
+   {
+    "title": "Asset Accountant",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/QwOj5k/Asset-Accountant?source=public"
+   },
+   {
+    "title": "Transfer Station Attendant",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/kRX7Nm/Transfer-Station-Attendant?source=public"
+   },
+   {
+    "title": "Lifeguard / Customer Service Officer",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/Z2sM8j/Lifeguard---Customer-Service-Officer?source=public"
+   },
+   {
+    "title": "Landfill Plant Operator",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/AKbAJ3/Landfill-Plant-Operator?source=public"
+   },
+   {
+    "title": "Project Program Officer",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/zkLuKO/Project-Program-Officer?source=public"
+   },
+   {
+    "title": "Landfill/Transfer Station Attendant - Expressions of Interest",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/RPSAUz/Landfill-Transfer-Station-Attendant---Expressions-of-Interest?source=public"
+   },
+   {
+    "title": "Summer Lifeguard / Customer Service Officer - Orbost Outdoor Pool",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/786BpU/Summer-Lifeguard---Customer-Service-Officer---Orbost-Outdoor-Pool?source=public"
+   },
+   {
+    "title": "Aquatic Education Instructor - Expressions of Interest",
+    "job_url": "https://eastgippsland.pulsesoftware.com/Pulse/apply/nCct7R/Aquatic-Education-Instructor---Expressions-of-Interest?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Frankston City Council",
+  "council_id": "frankston-city-council",
+  "state": "Victoria",
+  "abs_name": "Frankston (C)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Coordinator Business Partnering",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/coordinator-business-partnering-frankston-vic-australia"
+   },
+   {
+    "title": "Coordinator Service Planning Improvement and Reporting",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/coordinator-service-planning-improvement-and-reporting-frankston-vic-australia"
+   },
+   {
+    "title": "Mechanic",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/mechanic-seaford-vic-australia"
+   },
+   {
+    "title": "Team Leader Libraries",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/team-leader-libraries-frankston-vic-australia"
+   },
+   {
+    "title": "Project Support Officer",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/project-support-officer-frankston-vic-australia"
+   },
+   {
+    "title": "City Presentation Officer",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/city-presentation-officer-seaford-vic-australia"
+   },
+   {
+    "title": "Golf Course Maintenance Officer",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/golf-course-maintenance-officer-frankston-vic-australia"
+   },
+   {
+    "title": "Turf Management Officer",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/turf-management-officer-frankston-vic-australia-37193689-4916-4732-a480-0c89ade99188"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/school-crossing-supervisor-frankston-vic-australia"
+   },
+   {
+    "title": "Coordinator Creative City & Activation",
+    "job_url": "https://careers.frankston.vic.gov.au/jobs/coordinator-creative-city-activation-frankston-vic-australia"
+   }
+  ]
+ },
+ {
+  "council": "Gannawarra Shire Council",
+  "council_id": "gannawarra-shire-council",
+  "state": "Victoria",
+  "abs_name": "Gannawarra (S)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Early Childhood Educator - Trainee Positions Available",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Trainee-Early-Childhood-Educator-Positions-Available"
+   },
+   {
+    "title": "Assets Inspector",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Assets-Inspector"
+   },
+   {
+    "title": "Kindergarten Teacher - Cohuna",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Kindergarten-Teacher-Cohuna"
+   },
+   {
+    "title": "Early Childhood Educator - Diploma Qualified",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Early-Childhood-Educator-Diploma-Qualified-38-Hours-per-Week"
+   },
+   {
+    "title": "Early Childhood Educator - Diploma Qualified",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Early-Childhood-Educator-Diploma-Qualified"
+   },
+   {
+    "title": "School Crossing Supervisor - Casual",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/School-Crossing-Supervisor-Casual"
+   },
+   {
+    "title": "Early Childhood Educator - Diploma Qualified",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Early-Childhood-Educator-Diploma-Qualified-Casual"
+   },
+   {
+    "title": "Maternal & Child Health Nurse",
+    "job_url": "https://www.gannawarra.vic.gov.au/Situations-vacant/Maternal-Child-Health-Nurse"
+   }
+  ]
+ },
+ {
+  "council": "Glen Eira City Council",
+  "council_id": "glen-eira-city-council",
+  "state": "Victoria",
+  "abs_name": "Glen Eira (C)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Executive Assistant to Director Customer & Corporate Affairs",
+    "job_url": "https://careers.gleneira.vic.gov.au/jobs/executive-assistant-to-director-customer-corporate-affairs-glen-eira-vic-australia"
+   },
+   {
+    "title": "Head of People Operations and Partnering",
+    "job_url": "https://careers.gleneira.vic.gov.au/jobs/head-of-people-operations-and-partnering-glen-eira-vic-australia"
+   }
+  ]
+ },
+ {
+  "council": "Glenelg Shire Council",
+  "council_id": "glenelg-shire-council",
+  "state": "Victoria",
+  "abs_name": "Glenelg (S)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "School Crossing Supervisor (2 x Part Time)",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2511"
+   },
+   {
+    "title": "Inspections Arborist",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2507"
+   },
+   {
+    "title": "School Crossing Supervisor - Casterton (Casual)",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2495"
+   },
+   {
+    "title": "Information and Data Management Officer",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2489"
+   },
+   {
+    "title": "Early Childhood Educator - Cert III (Part Time)",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2458"
+   },
+   {
+    "title": "Senior Plant Operator",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2454"
+   },
+   {
+    "title": "Early Childhood Educator - Various Positions",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2290"
+   },
+   {
+    "title": "Senior Educator",
+    "job_url": "https://jobs.dayforcehcm.com/en-AU/glenelgshire/GLENELGCANDIDATEPORTAL/jobs/2005"
+   }
+  ]
+ },
+ {
+  "council": "Golden Plains Shire Council",
+  "council_id": "golden-plains-shire-council",
+  "state": "Victoria",
+  "abs_name": "Golden Plains (S)",
+  "jobs_count": 3,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "People Systems and Payroll Advisor",
+    "job_url": "https://candidate.aurion.cloud/gplains/production/vacancies/2912130433596399~1/edit"
+   },
+   {
+    "title": "Working with us",
+    "job_url": "https://www.goldenplains.vic.gov.au/about-council/organisation-and-governance/careers-golden-plains-shire-council/vacancies/working-us"
+   },
+   {
+    "title": "Applying with us",
+    "job_url": "https://www.goldenplains.vic.gov.au/about-council/organisation-and-governance/careers-golden-plains-shire-council/vacancies/applying-us"
+   }
+  ]
+ },
+ {
+  "council": "Greater Bendigo City Council",
+  "council_id": "greater-bendigo-city-council",
+  "state": "Victoria",
+  "abs_name": "Greater Bendigo (C)",
+  "jobs_count": 3,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "IT Digital Records Analyst",
+    "job_url": "https://www.bendigo.vic.gov.au/about-us/working-city"
+   },
+   {
+    "title": "Parks Worker - Passive Reserve",
+    "job_url": "https://www.bendigo.vic.gov.au/about-us/working-city"
+   },
+   {
+    "title": "Administration Officer - Community Services",
+    "job_url": "https://www.bendigo.vic.gov.au/about-us/working-city"
+   }
+  ]
+ },
+ {
+  "council": "Greater Dandenong City Council",
+  "council_id": "greater-dandenong-city-council",
+  "state": "Victoria",
+  "abs_name": "Greater Dandenong (C)",
+  "jobs_count": 6,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Finance Business Champion Lead – Core Systems Replacement (CSR)",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/finance-business-champion-lead-core-systems-replacement-csr"
+   },
+   {
+    "title": "Maternal and Child Health Nurse (Universal) x 4",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/maternal-and-child-health-nurse-universal-x-4"
+   },
+   {
+    "title": "Maternal and Child Health (MCH) Nurse Relievers",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/maternal-and-child-health-mch-nurse-relievers"
+   },
+   {
+    "title": "School Crossing Supervisors",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/school-crossing-supervisors"
+   },
+   {
+    "title": "Crew Leader Horticulture",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/crew-leader-horticulture"
+   },
+   {
+    "title": "Senior Governance Officer",
+    "job_url": "https://jobs.greaterdandenong.vic.gov.au/jobs/senior-governance-officer"
+   }
+  ]
+ },
+ {
+  "council": "Greater Geelong City Council",
+  "council_id": "greater-geelong-city-council",
+  "state": "Victoria",
+  "abs_name": "Greater Geelong (C)",
+  "jobs_count": 14,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Gardener / Qualified Gardener",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500942/gardener-qualified-gardener"
+   },
+   {
+    "title": "Expression of Interest - Learn to Swim",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500956/expression-of-interest-learn-to-swim"
+   },
+   {
+    "title": "Care Partner",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500818/care-partner"
+   },
+   {
+    "title": "Stores and Procurement Officer",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500721/stores-and-procurement-officer"
+   },
+   {
+    "title": "Project Manager",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500926/project-manager"
+   },
+   {
+    "title": "Gardener / Qualified Gardener",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500920/gardener-qualified-gardener"
+   },
+   {
+    "title": "Coordinator Tree Management",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500928/coordinator-tree-management"
+   },
+   {
+    "title": "Senior Data Analyst",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500877/senior-data-analyst"
+   },
+   {
+    "title": "Early Learning Officer",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500884/early-learning-officer"
+   },
+   {
+    "title": "Expression of Interest – Group Exercise",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500943/expression-of-interest-group-exercise"
+   },
+   {
+    "title": "Expression of Interest - Coaching (gymnastics)",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500933/expression-of-interest-coaching-gymnastics"
+   },
+   {
+    "title": "Identity & Access Management Engineer",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500888/identity-access-management-engineer"
+   },
+   {
+    "title": "Community Care Worker",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500277/community-care-worker"
+   },
+   {
+    "title": "Expression of Interest - Lifeguard 2027",
+    "job_url": "https://careers.pageuppeople.com/887/cw/en/job/500866/expression-of-interest-lifeguard-2027"
+   }
+  ]
+ },
+ {
+  "council": "Greater Shepparton City Council",
+  "council_id": "greater-shepparton-city-council",
+  "state": "Victoria",
+  "abs_name": "Greater Shepparton (C)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Early Childhood Educator - Diploma",
+    "job_url": "https://recruitment.greatershepparton.com.au/Prod/jobs/"
+   },
+   {
+    "title": "Animal Shelter Officer",
+    "job_url": "https://recruitment.greatershepparton.com.au/Prod/jobs/"
+   },
+   {
+    "title": "OHS Business Partner",
+    "job_url": "https://recruitment.greatershepparton.com.au/Prod/jobs/"
+   },
+   {
+    "title": "Work Group Officer - Learn to Swim",
+    "job_url": "https://recruitment.greatershepparton.com.au/Prod/jobs/"
+   }
+  ]
+ },
+ {
+  "council": "Hepburn Shire Council",
+  "council_id": "hepburn-shire-council",
+  "state": "Victoria",
+  "abs_name": "Hepburn (S)",
+  "jobs_count": 3,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Governance Advisor",
+    "job_url": "https://www.hepburn.vic.gov.au/Council/Work-for-Council/Job-vacancies"
+   },
+   {
+    "title": "People and Culture Business Partner",
+    "job_url": "https://www.hepburn.vic.gov.au/Council/Work-for-Council/Job-vacancies"
+   },
+   {
+    "title": "Planning Compliance Officer",
+    "job_url": "https://www.hepburn.vic.gov.au/Council/Work-for-Council/Job-vacancies"
+   }
+  ]
+ },
+ {
+  "council": "Hindmarsh Shire Council",
+  "council_id": "hindmarsh-shire-council",
+  "state": "Victoria",
+  "abs_name": "Hindmarsh (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "2026 027 Caretaker - Nhill Holiday Park",
+    "job_url": "https://www.hindmarsh.vic.gov.au/Council/Working-With-Us/Work-In-Council/2026-027-Caretaker"
+   },
+   {
+    "title": "2026 026 Team Leader Works - East",
+    "job_url": "https://www.hindmarsh.vic.gov.au/Council/Working-With-Us/Work-In-Council/2026-026-Team-Leader-Works-East"
+   }
+  ]
+ },
+ {
+  "council": "Hobsons Bay City Council",
+  "council_id": "hobsons-bay-city-council",
+  "state": "Victoria",
+  "abs_name": "Hobsons Bay (C)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Organisational Planning and Performance Advisor",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=935966"
+   },
+   {
+    "title": "Municipal Maintenance Officer",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=936173"
+   },
+   {
+    "title": "Graduate Drainage and Development Engineer",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=934826"
+   },
+   {
+    "title": "Finance Officer - Rates",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=935983"
+   },
+   {
+    "title": "Enterprise Systems Senior Project Manager",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=935882"
+   },
+   {
+    "title": "Rates Recovery Officer",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=936011"
+   },
+   {
+    "title": "Manager People Strategy",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=936221"
+   },
+   {
+    "title": "Integrated Planning and Performance Advisor",
+    "job_url": "https://hobsonsbay.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=935773"
+   }
+  ]
+ },
+ {
+  "council": "Horsham Rural City Council",
+  "council_id": "horsham-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Horsham (RC)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "HTH Customer Service & Administration Officer",
+    "job_url": "https://hrcc.elmotalent.com.au/careers/default/job/view/80"
+   },
+   {
+    "title": "Truck Driver / Assistant Arborist",
+    "job_url": "https://hrcc.elmotalent.com.au/careers/default/job/view/81"
+   },
+   {
+    "title": "SPARK Arts Program Education Officer",
+    "job_url": "https://hrcc.elmotalent.com.au/careers/default/job/view/82"
+   },
+   {
+    "title": "Casual Customer Service Officer",
+    "job_url": "https://hrcc.elmotalent.com.au/careers/default/job/view/83"
+   }
+  ]
+ },
+ {
+  "council": "Hume City Council",
+  "council_id": "hume-city-council",
+  "state": "Victoria",
+  "abs_name": "Hume (C)",
+  "jobs_count": 25,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Team Leader Fitness - BALC/SALC",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Early Childhood Educator Assistant- Preschool -Sunbury",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Regional Lead Youth Engagement (Sunbury/Craigieburn)",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Integrated Water Management Specialist",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Senior Project Manager - Civil Delivery",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Customer Service Officer - Leisure Centres",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Lead Gardener",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Venue Officer (Casual)",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Coordinator Planning and Performance",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Risk Management Lead",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Senior Growth Area Planner",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Coordinator Strategic Planning & Urban Design",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Senior Environmental Compliance Planner",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Unit Leader Fitness and Sport",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Duty Supervisor",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Building Maintenance Officer - Carpentry",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Direct Care Worker",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "CLOUD SPECIALIST",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Customer Service Officer",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Group Fitness Instructor",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Early Childhood Educator - Long Day Care",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Early Childhood Educator - Long Day Care SUNBURY",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Domestic Assistance Worker",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Group Fitness Instructor - SPLASH Aqua Park & Leisure Centre",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   },
+   {
+    "title": "Swimming Instructor",
+    "job_url": "https://www.hume.vic.gov.au/Your-Council/Careers-at-Hume/Jobs-and-Opportunities"
+   }
+  ]
+ },
+ {
+  "council": "Indigo Shire Council",
+  "council_id": "indigo-shire-council",
+  "state": "Victoria",
+  "abs_name": "Indigo (S)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Horticulturist",
+    "job_url": "https://indigo.pulsesoftware.com/Pulse/apply/vGmmaj/Senior-Horticulturist?source=public"
+   },
+   {
+    "title": "Environmental Health Officer",
+    "job_url": "https://indigo.pulsesoftware.com/Pulse/apply/8SrfGg/Environmental-Health-Officer?source=public"
+   },
+   {
+    "title": "Governance Officer",
+    "job_url": "https://indigo.pulsesoftware.com/Pulse/apply/KXlrmN/Governance-Officer?source=public"
+   },
+   {
+    "title": "Volunteer - Expression of Interest (EOI)",
+    "job_url": "https://indigo.pulsesoftware.com/Pulse/apply/mjRSWr/Volunteer---Expression-of-Interest--EOI-?source=public"
+   },
+   {
+    "title": "Expression of Interest for career opportunities with Indigo Shire Council",
+    "job_url": "https://indigo.pulsesoftware.com/Pulse/apply/NOZha5/Expression-of-Interest-for-career-opportunities-with-Indigo-Shire-Council?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Kingston City Council",
+  "council_id": "kingston-city-council",
+  "state": "Victoria",
+  "abs_name": "Kingston (C)",
+  "jobs_count": 19,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Parking Enforcement Officer",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/parking-enforcement-officer-cheltenham-vic-australia-0bd713ad-3c38-43d8-a8fd-d5d390389c05"
+   },
+   {
+    "title": "Lifeguard",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/lifeguard-cheltenham-office-vic-australia"
+   },
+   {
+    "title": "Environmental Health Officer",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/environmental-health-officer-cheltenham-vic-australia"
+   },
+   {
+    "title": "Learn To Swim Instructor",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/learn-to-swim-instructor-cheltenham-vic-australia-26ad88a9-8aa6-45ed-a27d-73c67b41defe"
+   },
+   {
+    "title": "Diploma Qualified Early Years Educator Parkdale",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/diploma-qualified-early-years-educator-parkdale-parkdale-vic-australia"
+   },
+   {
+    "title": "Certificate 3 Qualified Early Years Educator Edithvale",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/certificate-3-qualified-early-years-educator-edithvale-edithvale-vic-australia"
+   },
+   {
+    "title": "Certificate 3 Qualified Early Years Educator Parkdale",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/certificate-3-qualified-early-years-educator-parkdale-parkdale-vic-australia"
+   },
+   {
+    "title": "Certificate 3 Qualified Early Years Educator Carrum",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/certificate-3-qualified-early-years-educator-carrum-carrum-vic-australia"
+   },
+   {
+    "title": "Project Manager",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/project-manager-cheltenham-vic-australia-1aa6c8dc-3498-45e4-b9fa-490edf649e40"
+   },
+   {
+    "title": "Gym Instructor",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/gym-instructor-cheltenham-office-vic-australia"
+   },
+   {
+    "title": "Children & Youth Services Librarian",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/children-youth-services-librarian-parkdale-vic-australia-108c18b4-bca7-4bc5-b40f-e1bfa14c0c52"
+   },
+   {
+    "title": "Aquatic Supervisor",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/aquatic-supervisor-cheltenham-office-vic-australia"
+   },
+   {
+    "title": "Front of House Operations Officer",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/front-of-house-operations-officer-cheltenham-vic-australia"
+   },
+   {
+    "title": "Tree Planting Coordinator",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/tree-planting-coordinator-dingley-vic-australia-04da60fe-8e7c-4b05-83b6-b45a36f88ff1"
+   },
+   {
+    "title": "Team Leader Corporate Performance",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/team-leader-corporate-performance-cheltenham-vic-australia"
+   },
+   {
+    "title": "Expressions of Interest - Access and Equity Advisory Committee",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/expressions-of-interest-access-and-equity-advisory-committee"
+   },
+   {
+    "title": "Expressions of Interest - Art and Cultural Advisory Committee",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/expressions-of-interest-art-and-cultural-advisory-committee"
+   },
+   {
+    "title": "Expressions of Interest - Active Kingston Advisory Committee",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/expressions-of-interest-active-kingston-advisory-committee"
+   },
+   {
+    "title": "Expressions of Interest - Business and Economic Development Advisory Committee",
+    "job_url": "https://careers.kingston.vic.gov.au/jobs/expressions-of-interest-business-and-economic-development-advisory-committee"
+   }
+  ]
+ },
+ {
+  "council": "Knox City Council",
+  "council_id": "knox-city-council",
+  "state": "Victoria",
+  "abs_name": "Knox (C)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Asset Surveillance Officer",
+    "job_url": "https://careers.knox.vic.gov.au/jobs/senior-asset-surveillance-officer-knox-civic-centre-vic-australia"
+   },
+   {
+    "title": "Customer Experience Improvement Specialist (Pathway Uplift Project)",
+    "job_url": "https://careers.knox.vic.gov.au/jobs/customer-experience-improvement-specialist-pathway-uplift-project-knox-civic-centre-vic-australia"
+   },
+   {
+    "title": "Customer Experience Specialist",
+    "job_url": "https://careers.knox.vic.gov.au/jobs/customer-experience-specialist-knox-civic-centre-vic-australia"
+   },
+   {
+    "title": "Program Leader - Early Years Hub",
+    "job_url": "https://careers.knox.vic.gov.au/jobs/program-leader-early-years-hub-wantirna-south-children-and-family-centre-vic-australia"
+   }
+  ]
+ },
+ {
+  "council": "Latrobe City Council",
+  "council_id": "latrobe-city-council",
+  "state": "Victoria",
+  "abs_name": "Latrobe (C)",
+  "jobs_count": 17,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Customer Focus Agent",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/bvMlAk/Customer-Focus-Agent?source=public"
+   },
+   {
+    "title": "Statutory Planning Administration Officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/bw87l3/Statutory-Planning-Administration-Officer?source=public"
+   },
+   {
+    "title": "Procurement Officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/n77iBR/Procurement-Officer?source=public"
+   },
+   {
+    "title": "Road Asset Inspection officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/fskKLD/Road-Asset-Inspection-officer?source=public"
+   },
+   {
+    "title": "Theatre Technician",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/o1NMZJ/Theatre-Technician?source=public"
+   },
+   {
+    "title": "Rose Garden Maintenance Officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/oMBYOC/Rose-Garden-Maintenance-Officer?source=public"
+   },
+   {
+    "title": "Airport Operations Officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/1J1Q2B/Airport-Operations-Officer?source=public"
+   },
+   {
+    "title": "Experienced Maintenance Employee Urban Parks East",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/EAdYaZ/Experienced-Maintenance-Employee-Urban-Parks-East?source=public"
+   },
+   {
+    "title": "Coordinator Council Business",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/UFpPiR/Coordinator-Council-Business?source=public"
+   },
+   {
+    "title": "Senior Statutory Planner",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/lxrTva/Senior-Statutory-Planner?source=public"
+   },
+   {
+    "title": "Coordinator Safety & Wellbeing",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/hoI0jD/Coordinator-Safety---Wellbeing?source=public"
+   },
+   {
+    "title": "Human Resources Officer",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/uMupLI/Human-Resources-Officer?source=public"
+   },
+   {
+    "title": "Coordinator Building Projects and Maintenance",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/plmdp7/Coordinator-Building-Projects-and-Maintenance?source=public"
+   },
+   {
+    "title": "Manager Sustainability and Environment",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/JbStao/Manager-Sustainability-and-Environment?source=public"
+   },
+   {
+    "title": "Principal Strategic Planner",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/mj9P2F/Principal-Strategic-Planner?source=public"
+   },
+   {
+    "title": "Experienced Maintenance Employee - Tree Maintenance",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/lj91Dp/Experienced-Maintenance-Employee---Tree-Maintenance?source=public"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://latrobe.pulsesoftware.com/Pulse/apply/uyz0CP/School-Crossing-Supervisor?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Loddon Shire Council",
+  "council_id": "loddon-shire-council",
+  "state": "Victoria",
+  "abs_name": "Loddon (S)",
+  "jobs_count": 0,
+  "job_status": "zero-roles",
+  "scraped_at": "",
+  "jobs": []
+ },
+ {
+  "council": "Macedon Ranges Shire Council",
+  "council_id": "macedon-ranges-shire-council",
+  "state": "Victoria",
+  "abs_name": "Macedon Ranges (S)",
+  "jobs_count": 7,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Applications Analyst",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC8042-applications-analyst"
+   },
+   {
+    "title": "Coordinator Economy",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC80450-coordinator-economy"
+   },
+   {
+    "title": "Educators and Early Childhood Teacher",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC0000002-educators-and-early-childhood-teacher"
+   },
+   {
+    "title": "Local Laws Officer",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC90340-local-laws-officer"
+   },
+   {
+    "title": "Senior Applications Analyst",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC7097-senior-applications-analyst"
+   },
+   {
+    "title": "Senior Business Analyst and Project Lead",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSCDT7067-senior-business-analyst-and-project-lead"
+   },
+   {
+    "title": "Senior Data and Automation Analyst",
+    "job_url": "https://macedon-ranges-ext-shire-portal.applynow.net.au/jobs/MRSC7096-senior-data-and-automation-analyst"
+   }
+  ]
+ },
+ {
+  "council": "Manningham City Council",
+  "council_id": "manningham-city-council",
+  "state": "Victoria",
+  "abs_name": "Manningham (C)",
+  "jobs_count": 11,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Undergraduate Civil Engineer",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/EYdSuK/Undergraduate-Civil-Engineer?source=public"
+   },
+   {
+    "title": "Infrastructure Engineer",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/jVBnLq/Infrastructure-Engineer?source=public"
+   },
+   {
+    "title": "Graduate Civil Engineer",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/Dxiai8/Graduate-Civil-Engineer?source=public"
+   },
+   {
+    "title": "Road Maintenance Operator",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/ZmsPO4/Road-Maintenance-Operator?source=public"
+   },
+   {
+    "title": "Assistant Municipal Fire Prevention Officer",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/iwV1eo/Assistant-Municipal-Fire-Prevention-Officer?source=public"
+   },
+   {
+    "title": "Finance Officer",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/6yqWMV/Finance-Officer?source=public"
+   },
+   {
+    "title": "Coordinator Fleet and Operations Centre",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/t25WAY/Coordinator-Fleet-and-Operations-Centre?source=public"
+   },
+   {
+    "title": "Coordinator Infrastructure Project Management Office",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/zug2nH/Coordinator-Infrastructure-Project-Management-Office?source=public"
+   },
+   {
+    "title": "Team Leader Planning Compliance",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/vwCNm0/Team-Leader-Planning-Compliance?source=public"
+   },
+   {
+    "title": "People Experience Trainee",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/kAue5k/People-Experience-Trainee?source=public"
+   },
+   {
+    "title": "Graduate Statutory Planner",
+    "job_url": "https://manningham.pulsesoftware.com/Pulse/apply/LrENla/Graduate-Statutory-Planner?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Mansfield Shire Council",
+  "council_id": "mansfield-shire-council",
+  "state": "Victoria",
+  "abs_name": "Mansfield (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "People, Communications & Governance Traineeship",
+    "job_url": "https://www.mansfield.vic.gov.au/council/work-us/career-job-opportunities/people-communications-governance-traineeship"
+   }
+  ]
+ },
+ {
+  "council": "Maribyrnong City Council",
+  "council_id": "maribyrnong-city-council",
+  "state": "Victoria",
+  "abs_name": "Maribyrnong (C)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "People and Participation Officer",
+    "job_url": "https://maribyrnong.recruitmenthub.com.au/Vacancies/6945485/title/People-and-Participation-Officer"
+   },
+   {
+    "title": "Team Leader Parking",
+    "job_url": "https://maribyrnong.recruitmenthub.com.au/Vacancies/6943910/title/Team-Leader-Parking"
+   }
+  ]
+ },
+ {
+  "council": "Maroondah City Council",
+  "council_id": "maroondah-city-council",
+  "state": "Victoria",
+  "abs_name": "Maroondah (C)",
+  "jobs_count": 8,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Immunisation Nurse",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=B1AC7A5F-4BD2-CA7E-6714-ED6452F898A1&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey&lid=84508090016&rmuh=00E83FE871279F05F768ED5F17A7D0769571E709"
+   },
+   {
+    "title": "Administration Officer - Engineering",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=85667E2D-7A17-F9A6-DBC3-ED66DFB3D94A&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090024&rmuh=AE9E1A716D9B58237DCFF8C81ADDF5648171E667"
+   },
+   {
+    "title": "Croydon Community Wellbeing Precinct Lead",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=9FC8711E-B260-1422-EBB9-ED6757E50F5E&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090032&rmuh=24C7545C2FFBEED27C1DD5BBB624A62D11F40863"
+   },
+   {
+    "title": "Les Mills Body Combat Instructors",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=4945FB31-D5D9-DD47-C542-DB4AC360A05A&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090064&rmuh=8D969F45A984208AAD8AF0812269BADF2DBEC45E"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=36B6357E-6D89-EBA3-47A3-BF1902E2049F&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090072&rmuh=D69A7FACE7F18AAF5B7BBB386A3F7E61303D83B2"
+   },
+   {
+    "title": "Group Fitness Instructors",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=BE2D45A2-FC6C-0203-0AD7-DABC44BCE4C8&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090080&rmuh=03C95FCA87475EB17B0B086374DCD561208F787F"
+   },
+   {
+    "title": "Learn to Swim Instructors (Aquatic Educators)",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=4056D469-25C3-4654-444B-D1478868C7FA&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090088&rmuh=1EBC206D67B2A5946EB9E0CAB1C9EDBE25250A94"
+   },
+   {
+    "title": "Gymnastics Coach",
+    "job_url": "https://maroondahjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=522ECCA2-AB22-4266-01D8-9AE8ABD04BF4&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=46b3d502%2Df5aa%2D4e5c%2Db640%2D18daa5dabe99&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=84508090096&rmuh=F74D3C2A94DB658ACFF26C81FF2D0594D39F7D4F"
+   }
+  ]
+ },
+ {
+  "council": "Melbourne City Council",
+  "council_id": "melbourne-city-council",
+  "state": "Victoria",
+  "abs_name": "Melbourne (C)",
+  "jobs_count": 15,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Parking Data Lead",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Local Laws Officer",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Facilities Management Coordinator",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Analytics Governance and Literacy Specialist",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "C40 Cities Communication Lead",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Asset Data Officer",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Senior Building Control Officer",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Senior Building Surveyor",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Reader Development & Local History Librarian",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Children's Services Centre Assistant Coordinator",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Qualified Early Childhood Educator",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Infrastructure Engineer",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Local Laws Officer - Public Amenity Enforcement",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Duty Supervisor",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   },
+   {
+    "title": "Associate Producer (The Warehouse Residency)",
+    "job_url": "https://candidate.aurion.cloud/mcc/production/"
+   }
+  ]
+ },
+ {
+  "council": "Melton City Council",
+  "council_id": "melton-city-council",
+  "state": "Victoria",
+  "abs_name": "Melton (S)",
+  "jobs_count": 9,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Aquatic & Leisure Services Lead",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1940-aquatic-leisure-services-lead"
+   },
+   {
+    "title": "Change and Training Coordinator",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1929-change-and-training-coordinator"
+   },
+   {
+    "title": "City Development Project Lead",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1924-city-development-project-lead"
+   },
+   {
+    "title": "Community Grants Delivery Officer",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1926-community-grants-delivery-officer"
+   },
+   {
+    "title": "Community Grants Support Officer",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1927-community-grants-support-officer"
+   },
+   {
+    "title": "Data Integrity Officer",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1928-data-integrity-officer"
+   },
+   {
+    "title": "Events Officer",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1923-events-officer"
+   },
+   {
+    "title": "Geospatial Business Analyst",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1942-geospatial-business-analyst"
+   },
+   {
+    "title": "Open Space Planner",
+    "job_url": "https://meltoncity-external.applynow.net.au/jobs/MEL1938-open-space-planner"
+   }
+  ]
+ },
+ {
+  "council": "Merri-bek City Council",
+  "council_id": "merri-bek-city-council",
+  "state": "Victoria",
+  "abs_name": "Moreland (C)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Purchasing Officer",
+    "job_url": "http://applynow.net.au/jobs/MER854-purchasing-officer"
+   },
+   {
+    "title": "Sport and Recreation Development Officer",
+    "job_url": "http://applynow.net.au/jobs/MER856-sport-and-recreation-development-officer"
+   },
+   {
+    "title": "Team Leader Accounts",
+    "job_url": "http://applynow.net.au/jobs/MER1013-team-leader-accounts"
+   },
+   {
+    "title": "Unit Manager Urban Forest",
+    "job_url": "http://applynow.net.au/jobs/MER1014-unit-manager-urban-forest"
+   },
+   {
+    "title": "Accounts Payable Officer",
+    "job_url": "http://applynow.net.au/jobs/MER10168-accounts-payable-officer"
+   }
+  ]
+ },
+ {
+  "council": "Mildura Rural City Council",
+  "council_id": "mildura-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Mildura (RC)",
+  "jobs_count": 6,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Works & Infrastructure Plant Operator",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Works-Infrastructure-Plant-Operator-R2813"
+   },
+   {
+    "title": "Tourism Team Leader",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Tourism-Team-Leader-R2812"
+   },
+   {
+    "title": "Strategic Communications Officer",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Strategic-Communications-Officer-R2811"
+   },
+   {
+    "title": "Parks & Gardens Trainee",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Parks-Gardens-Trainee-R2809"
+   },
+   {
+    "title": "Plant Operator / Foreman",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Plant-Operator-Foreman-R2810"
+   },
+   {
+    "title": "Landscape & Urban Forest Planner",
+    "job_url": "https://www.mildura.vic.gov.au/Jobs-Listing/Landscape-Urban-Forest-Planner-R2808"
+   }
+  ]
+ },
+ {
+  "council": "Mitchell Shire Council",
+  "council_id": "mitchell-shire-council",
+  "state": "Victoria",
+  "abs_name": "Mitchell (S)",
+  "jobs_count": 12,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Recreation Development Officer",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/recreation-development-officer-melbourne-vic-australia-broadford-wallan-mitchell-shire"
+   },
+   {
+    "title": "Manager, Growth Planning and Development Services",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/manager-growth-planning-and-development-services-wallan-vic-australia-melbourne-mitchell-shire"
+   },
+   {
+    "title": "Assets Services Coordinator",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/assets-services-coordinator-broadford-vic-australia"
+   },
+   {
+    "title": "Civil Infrastructure Delivery Coordinator",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/civil-infrastructure-delivery-coordinator-melbourne-vic-australia-broadford-mitchell-shire"
+   },
+   {
+    "title": "Recreation and Open Space Planner",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/recreation-and-open-space-planner-melbourne-vic-australia-broadford-mitchell-shire-wallan-kilmore"
+   },
+   {
+    "title": "Communications Advisor",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/communications-advisor-melbourne-vic-australia-broadford-mitchell-shire"
+   },
+   {
+    "title": "Family Support Worker – Enhanced Maternal and Child Health",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/family-support-worker-enhanced-maternal-and-child-health-wallan-vic-australia-mitchell-shire"
+   },
+   {
+    "title": "Administrative Support Officer - Maternal and Child Health Service",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/administrative-support-officer-maternal-and-child-health-service-wallan-vic-australia-mitchell-shire"
+   },
+   {
+    "title": "Procurement Support Officer",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/procurement-support-officer-melbourne-vic-australia-broadford-mitchell-shire-wallan-seymour-beveridge-kilmore"
+   },
+   {
+    "title": "Gym Instructor",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/gym-instructor-mitchell-shire-vic-australia"
+   },
+   {
+    "title": "Group Fitness Instructor",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/group-fitness-instructor-melbourne-vic-australia-broadford-mitchell-shire-kilmore"
+   },
+   {
+    "title": "Swim Instructor",
+    "job_url": "https://careers.mitchellshire.vic.gov.au/jobs/swim-instructor-melbourne-vic-australia-80b32eea-9990-4674-995d-3b5a77f1ce2c"
+   }
+  ]
+ },
+ {
+  "council": "Moira Shire Council",
+  "council_id": "moira-shire-council",
+  "state": "Victoria",
+  "abs_name": "Moira (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Municipal Maintenance Gardener",
+    "job_url": "https://moira.elmotalent.com.au/careers/Moira/job/view/343"
+   },
+   {
+    "title": "Municipal Maintenance Gardener",
+    "job_url": "https://moira.elmotalent.com.au/careers/Moira/job/view/344"
+   }
+  ]
+ },
+ {
+  "council": "Monash City Council",
+  "council_id": "monash-city-council",
+  "state": "Victoria",
+  "abs_name": "Monash (C)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Independent Member to the Digital and Technology Steering Committee",
+    "job_url": "https://monash.wd105.myworkdayjobs.com/en-US/Monash/job/Glen-Waverley-Victoria/Independent-Member-to-the-Digital-and-Technology-Steering-Committee_JR100140"
+   },
+   {
+    "title": "Project Manager - Suburban Railway Loop",
+    "job_url": "https://monash.wd105.myworkdayjobs.com/en-US/Monash/job/Glen-Waverley-Victoria/Project-Manager---Suburban-Railway-Loop_JR100129"
+   },
+   {
+    "title": "Building Inspector",
+    "job_url": "https://monash.wd105.myworkdayjobs.com/en-US/Monash/job/Glen-Waverley-Victoria/Building-Inspector_JR100132"
+   },
+   {
+    "title": "Community Laws Officer",
+    "job_url": "https://monash.wd105.myworkdayjobs.com/en-US/Monash/job/Glen-Waverley-Victoria/Community-Laws-Officer_JR100131"
+   },
+   {
+    "title": "Circular Economy Lead",
+    "job_url": "https://monash.wd105.myworkdayjobs.com/en-US/Monash/job/Notting-Hill/Circular-Economy-Lead_JR100112"
+   }
+  ]
+ },
+ {
+  "council": "Moonee Valley City Council",
+  "council_id": "moonee-valley-city-council",
+  "state": "Victoria",
+  "abs_name": "Moonee Valley (C)",
+  "jobs_count": 11,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Parks Maintenance Team Leader",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11346/?mode=location"
+   },
+   {
+    "title": "City Compliance Officer",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11336/?mode=location"
+   },
+   {
+    "title": "Senior Traffic & Transport Engineer",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11344/?mode=location"
+   },
+   {
+    "title": "Certificate III Early Childhood Educator",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11003/?mode=location"
+   },
+   {
+    "title": "Library Customer Service and Program Support Officer",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11314/?mode=location"
+   },
+   {
+    "title": "Sustainability Advisor",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11347/?mode=location"
+   },
+   {
+    "title": "Casual Venue Technician",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11325/?mode=location"
+   },
+   {
+    "title": "Expression of Interest - Certificate III Qualified – Sessional Kindergarten Opportunities",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11349/?mode=location"
+   },
+   {
+    "title": "Expression of Interest - Diploma Qualified – Sessional Kindergarten Opportunities",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11350/?mode=location"
+   },
+   {
+    "title": "Expression of Interest - Kindergarten Teacher – Sessional Kindergarten Opportunities",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/11351/?mode=location"
+   },
+   {
+    "title": "Community Care Worker",
+    "job_url": "https://fa-euyo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/10053/?mode=location"
+   }
+  ]
+ },
+ {
+  "council": "Moorabool Shire Council",
+  "council_id": "moorabool-shire-council",
+  "state": "Victoria",
+  "abs_name": "Moorabool (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "M365 Information Governance & Platforms Lead",
+    "job_url": "https://moorabool.elmotalent.com.au/careers/msc/job/view/639"
+   },
+   {
+    "title": "Library Officer (LIB003)",
+    "job_url": "https://moorabool.elmotalent.com.au/careers/msc/job/view/640"
+   }
+  ]
+ },
+ {
+  "council": "Mornington Peninsula Shire Council",
+  "council_id": "mornington-peninsula-shire-council",
+  "state": "Victoria",
+  "abs_name": "Mornington Peninsula (S)",
+  "jobs_count": 19,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Coordinator - Library Operations",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=b3f4182d-92ee-415c-b944-a8f4cf3bf948"
+   },
+   {
+    "title": "Coordinator - Strategic Planning",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=0b6c4bf9-10f3-4113-b064-88a70e29a7c1"
+   },
+   {
+    "title": "Event Attraction and Development Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=c9d8e22a-46b3-4201-9e89-4f6a98290beb"
+   },
+   {
+    "title": "Kerbside Reform Project Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=324931fb-95ce-4e4a-bc5a-1d3fe8bcff80"
+   },
+   {
+    "title": "Library Assistant",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=52bbfd1c-8248-41f9-bf4d-28b551caae62"
+   },
+   {
+    "title": "Library Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=00d9d9ab-525a-4756-8df8-926ef388659e"
+   },
+   {
+    "title": "Library Operations Lead",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=f6b87910-c7da-4a51-affd-d104bc84da36"
+   },
+   {
+    "title": "Library Operations Support Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=ed577b0f-b9fb-4b23-ae8c-4e46d26f2e8e"
+   },
+   {
+    "title": "Library Outreach Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=6b3d3bd1-faf1-463c-ad44-228bbca63e16"
+   },
+   {
+    "title": "Library Programs Officer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=678f2c1f-399c-44d7-a3c4-f821507affcd"
+   },
+   {
+    "title": "Library Service Lead – Assets & Infrastructure",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=519599aa-54aa-4a44-85a4-3e0ef78b9840"
+   },
+   {
+    "title": "Library Service Lead - Digital Technology",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=adc13e4e-99ee-4530-a649-cd1da26405a6"
+   },
+   {
+    "title": "Library Services Lead – Outreach & Partnerships",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=ffb1561d-4c0e-4dc5-8db6-f4dbbb4d672d"
+   },
+   {
+    "title": "Library Services Lead – Planning & Engagement",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=1874342d-7c10-4858-901e-a40982ee02fc"
+   },
+   {
+    "title": "Library Services Lead – Programs & Events",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=a1c759d1-8e2c-496b-a692-02ce8bef6e6f"
+   },
+   {
+    "title": "Library Services Lead – Reading and Collections",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=10970de6-58bb-419c-adda-c5aff95eddaa"
+   },
+   {
+    "title": "Senior Finance Business Partner",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=ae34fcee-76ae-4159-aab7-14f39ac28d2e"
+   },
+   {
+    "title": "Senior Library Officer – Library Van",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=f8b06e17-be4a-4aa0-8265-da313fddaa3a"
+   },
+   {
+    "title": "Undergraduate Engineer",
+    "job_url": "https://mornpen.t1cloud.com/T1Default/CiAnywhere/Web/MORNPEN/Public/Function/%24ORG.REC.EXAPN.WIZ/PUBLIC?suite=CES&token=09e582b9-1005-49dd-b66b-c4cb4e32eadd"
+   }
+  ]
+ },
+ {
+  "council": "Mount Alexander Shire Council",
+  "council_id": "mount-alexander-shire-council",
+  "state": "Victoria",
+  "abs_name": "Mount Alexander (S)",
+  "jobs_count": 5,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Technical Officer - Building",
+    "job_url": "https://www.mountalexander.vic.gov.au/Council/Work-with-us/Current-vacancies/Technical-Officer-Building-Nov-2026"
+   },
+   {
+    "title": "Waste Administration and Customer Service Officer",
+    "job_url": "https://www.mountalexander.vic.gov.au/Council/Work-with-us/Current-vacancies/Waste-Administration-and-Customer-Service-Officer"
+   },
+   {
+    "title": "Property Maintenance Officer",
+    "job_url": "https://www.mountalexander.vic.gov.au/Council/Work-with-us/Current-vacancies/Property-Maintenance-Officer-2"
+   },
+   {
+    "title": "Direct Care Worker (Qualified or Trainee)",
+    "job_url": "https://www.mountalexander.vic.gov.au/Council/Work-with-us/Current-vacancies/Direct-Care-Worker"
+   },
+   {
+    "title": "Social Support Volunteers",
+    "job_url": "https://www.mountalexander.vic.gov.au/Council/Work-with-us/Current-vacancies/Social-Support-Volunteers"
+   }
+  ]
+ },
+ {
+  "council": "Moyne Shire Council",
+  "council_id": "moyne-shire-council",
+  "state": "Victoria",
+  "abs_name": "Moyne (S)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Development Design Engineer",
+    "job_url": "https://www.moyne.vic.gov.au/Employment/REC-51-Development-Design-Engineer"
+   },
+   {
+    "title": "Relief Local Laws Officer",
+    "job_url": "https://www.moyne.vic.gov.au/Employment/REC-52-Relief-Local-Laws-Officer"
+   },
+   {
+    "title": "Relief Community Care Workers",
+    "job_url": "https://www.moyne.vic.gov.au/Employment/Rec-50-Relief-Community-Care-Workers"
+   },
+   {
+    "title": "Relief Early Childhood Educators",
+    "job_url": "https://www.moyne.vic.gov.au/Employment/Relief-Early-Childhood-Educators"
+   }
+  ]
+ },
+ {
+  "council": "Murrindindi Shire Council",
+  "council_id": "murrindindi-shire-council",
+  "state": "Victoria",
+  "abs_name": "Murrindindi (S)",
+  "jobs_count": 3,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Community Safety Officer",
+    "job_url": "https://www.murrindindi.vic.gov.au/Council/Jobs-and-Tenders/Vacant-Positions/Senior-Community-Safety-Officer-November-2026"
+   },
+   {
+    "title": "Planning Compliance Officer",
+    "job_url": "https://www.murrindindi.vic.gov.au/Council/Jobs-and-Tenders/Vacant-Positions/Planning-Compliance-Officer-October-2026"
+   },
+   {
+    "title": "Audit and Risk Committee - Independent Member",
+    "job_url": "https://www.murrindindi.vic.gov.au/Council/Jobs-and-Tenders/Vacant-Positions/Audit-and-Risk-Committee-Independent-Member-Recruitment-Oct-2026"
+   }
+  ]
+ },
+ {
+  "council": "Nillumbik Shire Council",
+  "council_id": "nillumbik-shire-council",
+  "state": "Victoria",
+  "abs_name": "Nillumbik (S)",
+  "jobs_count": 6,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Waste, Fleet and Rapid Response Business Unit Partner",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6946499/title/Waste-Fleet-and-Rapid-Response-Business-Unit-Partner"
+   },
+   {
+    "title": "Coordinator Waste, Fleet and Rapid Response (Internal Applicants Only)",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6946493/title/Coordinator-Waste-Fleet-and-Rapid-Response-Internal-Applicants-Only-"
+   },
+   {
+    "title": "Team Leader Waste (Internal Applicants Only)",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6946487/title/Team-Leader-Waste-Internal-Applicants-Only-"
+   },
+   {
+    "title": "Youth Program Officer",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6946061/title/Youth-Program-Officer"
+   },
+   {
+    "title": "Biodiversity Officer (Internal Applicants Only)",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6944525/title/Biodiversity-Officer-Internal-Applicants-Only-"
+   },
+   {
+    "title": "Roads and Drains Maintenance Officer Unsealed",
+    "job_url": "https://nillumbikshirecouncil.recruitmenthub.com.au/Current-vacancies/6942254/title/Roads-and-Drains-Maintenance-Officer-Unsealed"
+   }
+  ]
+ },
+ {
+  "council": "Northern Grampians Shire Council",
+  "council_id": "northern-grampians-shire-council",
+  "state": "Victoria",
+  "abs_name": "Northern Grampians (S)",
+  "jobs_count": 9,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Supervisor Plant and Mechanical Workshops, St Arnaud - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/219"
+   },
+   {
+    "title": "Maintenance Employee Storeperson",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/236"
+   },
+   {
+    "title": "Lifeguard, Stawell - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/222"
+   },
+   {
+    "title": "Swim Teacher, Stawell - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/225"
+   },
+   {
+    "title": "Certificate III Gardener, St Arnaud - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/220"
+   },
+   {
+    "title": "Duty Manager, St Arnaud - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/227"
+   },
+   {
+    "title": "Swim Teacher, St Arnaud - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/228"
+   },
+   {
+    "title": "Lifeguard, St Arnaud - Regional Victoria",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/229"
+   },
+   {
+    "title": "Visitor Centre Volunteer",
+    "job_url": "https://ngshire.elmotalent.com.au/careers/careers/job/view/153"
+   }
+  ]
+ },
+ {
+  "council": "Port Phillip City Council",
+  "council_id": "port-phillip-city-council",
+  "state": "Victoria",
+  "abs_name": "Port Phillip (C)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Advertising a planning application",
+    "job_url": "https://www.portphillip.vic.gov.au/planning-and-building/planning/apply-for-a-permit/advertising-a-planning-application/"
+   }
+  ]
+ },
+ {
+  "council": "Pyrenees Shire Council",
+  "council_id": "pyrenees-shire-council",
+  "state": "Victoria",
+  "abs_name": "Pyrenees (S)",
+  "jobs_count": 0,
+  "job_status": "zero-roles",
+  "scraped_at": "",
+  "jobs": []
+ },
+ {
+  "council": "South Gippsland Shire Council",
+  "council_id": "south-gippsland-shire-council",
+  "state": "Victoria",
+  "abs_name": "South Gippsland (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Expression of Interest - Volunteer",
+    "job_url": "https://southgippsland-old.applynow.net.au/jobs/SGSC838-expression-of-interest-volunteer"
+   }
+  ]
+ },
+ {
+  "council": "Southern Grampians Shire Council",
+  "council_id": "southern-grampians-shire-council",
+  "state": "Victoria",
+  "abs_name": "Southern Grampians (S)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Community Safety and Natural Resources Coordinator",
+    "job_url": "https://sthgrampians.elmotalent.com.au/careers/default/job/view/175"
+   },
+   {
+    "title": "Customer Service - Administration Support Officer",
+    "job_url": "https://sthgrampians.elmotalent.com.au/careers/default/job/view/179"
+   },
+   {
+    "title": "Plant Operator - West",
+    "job_url": "https://sthgrampians.elmotalent.com.au/careers/default/job/view/178"
+   },
+   {
+    "title": "Lifeguard - Casual",
+    "job_url": "https://sthgrampians.elmotalent.com.au/careers/default/job/view/154"
+   }
+  ]
+ },
+ {
+  "council": "Stonnington City Council",
+  "council_id": "stonnington-city-council",
+  "state": "Victoria",
+  "abs_name": "Stonnington (C)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Strategy Business Partner",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1530"
+   },
+   {
+    "title": "Domestic/ Green Waste Casual",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1532"
+   },
+   {
+    "title": "Customer Service Training & Information Officer",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1537"
+   },
+   {
+    "title": "Project Manager - Building Projects",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1547"
+   },
+   {
+    "title": "Technical Officer",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1540"
+   },
+   {
+    "title": "Communications and Content Business Partner",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1541"
+   },
+   {
+    "title": "Immunisation Nurse",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1544"
+   },
+   {
+    "title": "Communications & Content Advisor",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1550"
+   },
+   {
+    "title": "Health, Safety and Wellbeing Business Partner",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1542"
+   },
+   {
+    "title": "Audit and Risk Committee Member",
+    "job_url": "https://cos.elmotalent.com.au/careers/cosjobs/job/view/1545"
+   }
+  ]
+ },
+ {
+  "council": "Strathbogie Shire Council",
+  "council_id": "strathbogie-shire-council",
+  "state": "Victoria",
+  "abs_name": "Strathbogie (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Property & Building Maintenance Officer",
+    "job_url": "https://www.strathbogie.vic.gov.au/job/property-building-maintenance-officer-2/"
+   },
+   {
+    "title": "Finance Coordinator",
+    "job_url": "https://www.strathbogie.vic.gov.au/job/finance-coordinator/"
+   }
+  ]
+ },
+ {
+  "council": "Surf Coast Shire Council",
+  "council_id": "surf-coast-shire-council",
+  "state": "Victoria",
+  "abs_name": "Surf Coast (S)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "[email protected]",
+    "job_url": "https://belgravia.expr3ss.com/cdn-cgi/l/email-protection"
+   }
+  ]
+ },
+ {
+  "council": "Swan Hill Rural City Council",
+  "council_id": "swan-hill-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Swan Hill (RC)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Parks and Gardens Team Member",
+    "job_url": "https://swanhill.pulsesoftware.com/Pulse/apply/bMSLXo/Parks-and-Gardens-Team-Member?source=public"
+   },
+   {
+    "title": "Pioneer Settlement Activator",
+    "job_url": "https://swanhill.pulsesoftware.com/Pulse/apply/D49BNd/Pioneer-Settlement-Activator?source=public"
+   }
+  ]
+ },
+ {
+  "council": "Towong Shire Council",
+  "council_id": "towong-shire-council",
+  "state": "Victoria",
+  "abs_name": "Towong (S)",
+  "jobs_count": 7,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Customer Service Officer (Tallangatta) at Towong Shire Council • Tallangatta, Victoria 3700 • Part-time • On-site",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-customer-service-officer-tallangatta-w037n/"
+   },
+   {
+    "title": "Casual Family Support Officer (Tallangatta) at Towong Shire Council • Tallangatta, Victoria 3700 •",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-casual-family-support-officer-tallangatta-mnnpm/"
+   },
+   {
+    "title": "Senior Customer Liaison Officer (Tallangatta) at Towong Shire Council • Tallangatta, Victoria 3700 • Full-time • Hybrid",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-senior-customer-liaison-officer-tallangatta-tnrqt/"
+   },
+   {
+    "title": "Senior Officer – Planning, Building and Compliance at Towong Shire Council • Tallangatta, Victoria 3700 • Full-time • Hybrid",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-senior-officer-planning-building-and-compliance-7sqbc/"
+   },
+   {
+    "title": "Early Years Educator at Towong Shire Council • Wodonga, Victoria 3690 • Full-time • On-site",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-early-years-educator-2vf6s/"
+   },
+   {
+    "title": "Parks and Gardens Operator (Full time and",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-parks-and-gardens-operator-full-time-and-casual-roles-82vvs/"
+   },
+   {
+    "title": "Early Childhood Multiple Roles – Expression of Interest at Towong Shire Council • Tallangatta, Victoria 3700 • Full-time • On-site",
+    "job_url": "https://employmenthero.com/jobs/position/towong-shire-council-early-childhood-multiple-roles-expression-of-interest-a5u82/"
+   }
+  ]
+ },
+ {
+  "council": "Wangaratta Rural City Council",
+  "council_id": "wangaratta-rural-city-council",
+  "state": "Victoria",
+  "abs_name": "Wangaratta (RC)",
+  "jobs_count": 4,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://candidate.aurion.cloud/wangaratta/production/"
+   },
+   {
+    "title": "Childrens Services Centre 2IC",
+    "job_url": "https://candidate.aurion.cloud/wangaratta/production/"
+   },
+   {
+    "title": "Waste & Organic Operator - Landfill",
+    "job_url": "https://candidate.aurion.cloud/wangaratta/production/"
+   },
+   {
+    "title": "Aquatic Education Instructor",
+    "job_url": "https://candidate.aurion.cloud/wangaratta/production/"
+   }
+  ]
+ },
+ {
+  "council": "Warrnambool City Council",
+  "council_id": "warrnambool-city-council",
+  "state": "Victoria",
+  "abs_name": "Warrnambool (C)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Human Resources Support Officer",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/human-resources-support-officer"
+   },
+   {
+    "title": "Project Manager",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/project-manager-0"
+   },
+   {
+    "title": "Cook - Florence Collins Childcare Centre",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/cook-florence-collins-childcare-centre"
+   },
+   {
+    "title": "Lifeguard - Temporary Part Time",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/lifeguard-temporary-part-time"
+   },
+   {
+    "title": "Lifeguard - Casual",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/lifeguard-casual"
+   },
+   {
+    "title": "Administration & Customer Service Officer - Archie Graham",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/administration-customer-service-officer-archie-graham"
+   },
+   {
+    "title": "Administration Officer - Events & Promotions",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/administration-officer-events-promotions"
+   },
+   {
+    "title": "AquaZone Trainee",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/aquazone-trainee"
+   },
+   {
+    "title": "EOI - Outside School Hours Care Educator",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/eoi-outside-school-hours-care-educator"
+   },
+   {
+    "title": "EOI - Relief Early Childhood Educators & Teachers",
+    "job_url": "https://www.warrnambool.vic.gov.au/careers/eoi-relief-early-childhood-educators-teachers"
+   }
+  ]
+ },
+ {
+  "council": "Wellington Shire Council",
+  "council_id": "wellington-shire-council",
+  "state": "Victoria",
+  "abs_name": "Wellington (S)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Environmental Health Support Officer (Temporary)",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/uwBgYK/Environmental-Health-Support-Officer--Temporary-?source=public"
+   },
+   {
+    "title": "Facilities Maintenance Officer",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/BfolhD/Facilities-Maintenance-Officer?source=public"
+   },
+   {
+    "title": "Fleet and Procurement Officer",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/ylD8T4/Fleet-and-Procurement-Officer?source=public"
+   },
+   {
+    "title": "Asset Finance Officer",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/q5iFe1/Asset-Finance-Officer?source=public"
+   },
+   {
+    "title": "RM&O Plant Operator",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/wVmuKr/RM-O-Plant-Operator?source=public"
+   },
+   {
+    "title": "General Operator",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/zwnTIx/General-Operator?source=public"
+   },
+   {
+    "title": "EOI - Customer Service Officer (Lifeguard)",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/vZNuz2/EOI---Customer-Service-Officer--Lifeguard-?source=public"
+   },
+   {
+    "title": "Work Experience and Vocational Placement",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/eA5SkJ/Work-Experience-and-Vocational-Placement?source=public"
+   },
+   {
+    "title": "Swim Teacher",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/QhHJKA/Swim-Teacher?source=public"
+   },
+   {
+    "title": "Group Fitness Instructor",
+    "job_url": "https://wellingtonvic.pulsesoftware.com/Pulse/apply/9cC3Es/Group-Fitness-Instructor?source=public"
+   }
+  ]
+ },
+ {
+  "council": "West Wimmera Shire Council",
+  "council_id": "west-wimmera-shire-council",
+  "state": "Victoria",
+  "abs_name": "West Wimmera (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Early Years Educator",
+    "job_url": "https://www.westwimmera.vic.gov.au/Council/Employment/Early-Years-Educator-August-2026"
+   },
+   {
+    "title": "Early Childhood Teacher",
+    "job_url": "https://www.westwimmera.vic.gov.au/Council/Employment/Early-Childhood-Teacher-June-2026"
+   }
+  ]
+ },
+ {
+  "council": "Whitehorse City Council",
+  "council_id": "whitehorse-city-council",
+  "state": "Victoria",
+  "abs_name": "Whitehorse (C)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Volunteer at Whitehorse",
+    "job_url": "https://www.whitehorse.vic.gov.au/about-whitehorse/administration/jobs/volunteers"
+   }
+  ]
+ },
+ {
+  "council": "Whittlesea City Council",
+  "council_id": "whittlesea-city-council",
+  "state": "Victoria",
+  "abs_name": "Whittlesea (C)",
+  "jobs_count": 11,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Senior Development Manager - Precinct Delivery",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Senior-Development-Manager---Precinct-Delivery_JR100169"
+   },
+   {
+    "title": "Youth Programs Officer",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Westfield/Youth-Project-Officer_JR100300"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/School-Crossing-Supervisor_JR100090"
+   },
+   {
+    "title": "Project Manager",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Project-Manager_JR100296"
+   },
+   {
+    "title": "Nurse Immuniser casual",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Nurse-Immuniser-casual_JR100257"
+   },
+   {
+    "title": "Partners in Place Project Officer",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Partners-in-Place-Project-Officer_JR100251"
+   },
+   {
+    "title": "Partners in Place Coordinator",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Partners-in-Place-Coordinator_JR100260"
+   },
+   {
+    "title": "Youth Development Officer",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Westfield/Youth-Development-Officer_JR100252"
+   },
+   {
+    "title": "Customer Service Officer (Part-time) wat djerring Animal Facility",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Northern-Suburbs/Customer-Service-Officer--Part-time--wat-djerring-Animal-Facility_JR100232"
+   },
+   {
+    "title": "Technician PRACC",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Technician-PRACC_JR100031"
+   },
+   {
+    "title": "Senior Technician",
+    "job_url": "https://whittleseavic.wd105.myworkdayjobs.com/en-US/Whittlesea/job/Civic-Centre/Senior-Technician_JR100032"
+   }
+  ]
+ },
+ {
+  "council": "Wodonga City Council",
+  "council_id": "wodonga-city-council",
+  "state": "Victoria",
+  "abs_name": "Wodonga (RC)",
+  "jobs_count": 1,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Resource Recovery Officer - Vacancy Details – Aurion",
+    "job_url": "https://selfservice.wodonga.vic.gov.au/Prod/jobs/vacancies/2912147615992199~1/edit"
+   }
+  ]
+ },
+ {
+  "council": "Wyndham City Council",
+  "council_id": "wyndham-city-council",
+  "state": "Victoria",
+  "abs_name": "Wyndham (C)",
+  "jobs_count": 17,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Area Leader Tree Planting & Urban Forest Delivery",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=48f17842-5e94-4a2a-99e7-5cd347832f59"
+   },
+   {
+    "title": "Building Surveyor",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=7e9d9e18-4108-4864-9832-9c6fc2ec45a3"
+   },
+   {
+    "title": "Casual Bus Driver - Street Surfer Bus",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=8fdc41b9-3b2e-436f-9172-03e42750d003"
+   },
+   {
+    "title": "Casual School Crossing Supervisor",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=e952ad77-2fe5-47b0-889f-12a57cc5939b"
+   },
+   {
+    "title": "Casual Youth Support Worker",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=685de331-9fe1-4bd0-aedd-bd114752d511"
+   },
+   {
+    "title": "Conservation Team Member",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=5ad7a90e-3768-43bd-93b2-7af27461c87d"
+   },
+   {
+    "title": "Coordinator Development Contributions",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=a804eecd-5460-4663-b144-b5102f0b7819"
+   },
+   {
+    "title": "First Nations Community Officer (Identified)",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=25e731fb-69ac-4a80-83f2-b0dbe95b3e43"
+   },
+   {
+    "title": "Leisure Facilities Officer",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=14e8b189-b140-43a2-9948-ed78a1721893"
+   },
+   {
+    "title": "Local Laws Officer",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=77360f56-f68b-4008-91cf-3dd59e5d605c"
+   },
+   {
+    "title": "Maternal & Child Health Nurse (Graduate Opportunity)",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=5790b4fb-cc54-427d-8587-d283fa9c9e58"
+   },
+   {
+    "title": "Open Space Maintenance Team Member",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=b36f4cc2-d589-4e42-aeb2-568c10765478"
+   },
+   {
+    "title": "Producer Programming & Engagement Officer",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=437d45f9-53a7-47fd-af74-f7b1c471b67b"
+   },
+   {
+    "title": "Risk & Insurance Support Officer",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=96a93168-b2c8-494f-8895-703ffedfa71e"
+   },
+   {
+    "title": "Statutory Building Inspector",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=17381336-dfb6-44e8-a755-5f06aaddffeb"
+   },
+   {
+    "title": "Team Leader Early Education Care Services",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=4bfc5d69-896f-4be5-9402-d24a43456a02"
+   },
+   {
+    "title": "Team Leader Open Space Maintenance",
+    "job_url": "https://wyndham.t1cloud.com/T1Default/CiAnywhere/Web/WYNDHAM/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_EXT?suite=CES&token=7d463eb6-710b-4d82-8e4b-3557a0dd411d"
+   }
+  ]
+ },
+ {
+  "council": "Yarra City Council",
+  "council_id": "yarra-city-council",
+  "state": "Victoria",
+  "abs_name": "Yarra (C)",
+  "jobs_count": 10,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Family, Youth and Children's Services Customer & Business Support Officer",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/family-youth-and-children-s-services-customer-business-support-officer-melbourne-vic-australia"
+   },
+   {
+    "title": "Youth Development Officer, Programs & Engagement (Richmond Youth Hub)",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/youth-development-officer-programs-engagement-richmond-youth-hub-melbourne-vic-australia"
+   },
+   {
+    "title": "Swim Teacher",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/swim-teacher-melbourne-vic-australia-34bee80b-a4ed-4a26-af84-592673069c2c"
+   },
+   {
+    "title": "Immunisation Nurse",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/immunisation-nurse-melbourne-vic-australia"
+   },
+   {
+    "title": "Senior Payroll Officer",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/senior-payroll-officer-melbourne-vic-australia"
+   },
+   {
+    "title": "Civil Works Project Officer",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/civil-works-project-officer-melbourne-vic-australia"
+   },
+   {
+    "title": "Civil Construction Works Operator",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/civil-construction-works-operator-melbourne-vic-australia-4d29c25a-969f-4434-9fe3-048bf76785a1"
+   },
+   {
+    "title": "Climate Emergency Engagement Officer",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/climate-emergency-engagement-officer-melbourne-vic-australia"
+   },
+   {
+    "title": "Group Exercise Instructor",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/group-exercise-instructor-melbourne-vic-australia"
+   },
+   {
+    "title": "School Crossing Supervisor",
+    "job_url": "https://jobs.yarracity.vic.gov.au/jobs/school-crossing-supervisor-melbourne-vic-australia-f4dfb3d7-5f3e-4815-90d9-5e6d54f83c24"
+   }
+  ]
+ },
+ {
+  "council": "Yarra Ranges Shire Council",
+  "council_id": "yarra-ranges-shire-council",
+  "state": "Victoria",
+  "abs_name": "Yarra Ranges (S)",
+  "jobs_count": 6,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Business Support Officer - Development Compliance",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=a250abbc-f116-483f-9a7e-7127de98f978"
+   },
+   {
+    "title": "Executive Officer Regulatory Services",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=8f1e7723-e17f-480e-904d-4e44072a04a9"
+   },
+   {
+    "title": "IT Technical Support Officer",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=b138600d-61f3-4159-bd02-ac918f8260ae"
+   },
+   {
+    "title": "Senior Subdivision Officer",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=cc307dfe-861e-454e-9ae8-9d143da6d233"
+   },
+   {
+    "title": "Shuttle Bus Driver - Warburton Bike Park",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=15e806e2-0391-4c70-8c1a-519bc3a90f0c"
+   },
+   {
+    "title": "Venue Service Supervisor",
+    "job_url": "https://yrc.t1cloud.com/T1Default/CiAnywhere/Web/YRC/Public/Function/%24ORG.REC.EXAPN.WIZ/RECRUIT_GUEST?suite=CES&token=3ad0c51f-2df0-4e86-81c1-306641d7ea2d"
+   }
+  ]
+ },
+ {
+  "council": "Yarriambiack Shire Council",
+  "council_id": "yarriambiack-shire-council",
+  "state": "Victoria",
+  "abs_name": "Yarriambiack (S)",
+  "jobs_count": 2,
+  "job_status": "ok",
+  "scraped_at": "",
+  "jobs": [
+   {
+    "title": "Emerge Early Years Services - Job Opportunities",
+    "job_url": "https://www.yarriambiack.vic.gov.au/Home/Tabs/Engage-With-Us/Jobs/Emerge-Early-Years-Services-Job-Opportunities"
+   },
+   {
+    "title": "Building Maintenance Technician",
+    "job_url": "https://www.yarriambiack.vic.gov.au/Home/Tabs/Engage-With-Us/Jobs/Building-Maintenance-Technician"
+   }
+  ]
+ }
+]
