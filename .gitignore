@@ -12,3 +12,6 @@ review/
 
 # astro generated types
 src/env.d.ts
+
+# local skill output (critiques, scratch) — never commit
+.impeccable/
