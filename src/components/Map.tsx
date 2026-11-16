@@ -152,7 +152,7 @@ export default function Map({
           id="map-council-picker"
           value={selected || ''}
           onChange={(e) => onPickRef.current(e.target.value || null)}
-          style={{ flex: 1, padding: '8px 10px', borderRadius: 8, border: '1px solid #ccc', background: '#fff', fontSize: 14 }}
+          style={{ flex: 1, minHeight: 44, padding: '8px 10px', borderRadius: 8, border: '1px solid #ccc', background: '#fff', fontSize: 14 }}
         >
           <option value="">Choose a council…</option>
           {councils.map((c) => (
@@ -164,7 +164,7 @@ export default function Map({
         <button
           onClick={() => onPickRef.current(null)}
           disabled={!selected}
-          style={{ padding: '8px 14px', borderRadius: 8, border: '1px solid #ccc', background: selected ? '#fff' : '#f0f0f0', cursor: selected ? 'pointer' : 'default', fontSize: 14 }}
+          style={{ padding: '8px 14px', minHeight: 44, borderRadius: 8, border: '1px solid #ccc', background: selected ? '#fff' : '#f0f0f0', cursor: selected ? 'pointer' : 'default', fontSize: 14 }}
         >
           Reset
         </button>

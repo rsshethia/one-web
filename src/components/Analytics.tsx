@@ -51,7 +51,7 @@ export default function Analytics({ rows, state }: { rows: LgaRow[]; state: stri
       <p style={{ color: '#555', marginBottom: 16, fontSize: 13 }}>
         Snapshot {s.fresh} · {s.inState.length} councils · counts only — titles link out to official portals.
       </p>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 12 }}>
+      <div className="bento">
         {[
           { v: String(s.total), l: 'open roles' },
           { v: String(s.inState.length), l: 'councils tracked' },
@@ -63,7 +63,7 @@ export default function Analytics({ rows, state }: { rows: LgaRow[]; state: stri
             <div style={{ fontSize: 13, color: '#666' }}>{k.l}</div>
           </div>
         ))}
-        <div style={{ ...card, gridColumn: 'span 2' }}>
+        <div style={card} className="span-half">
           <div style={{ fontWeight: 600, marginBottom: 8, fontSize: 14 }}>Councils by open-role band</div>
           {s.buckets.map((b) => (
             <div key={b.label} style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6, fontSize: 13 }}>
@@ -75,7 +75,7 @@ export default function Analytics({ rows, state }: { rows: LgaRow[]; state: stri
             </div>
           ))}
         </div>
-        <div style={{ ...card, gridColumn: 'span 2' }}>
+        <div style={card} className="span-half">
           <div style={{ fontWeight: 600, marginBottom: 8, fontSize: 14 }}>Most common title words</div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
             {s.words.map(([w, n]) => (
@@ -85,11 +85,11 @@ export default function Analytics({ rows, state }: { rows: LgaRow[]; state: stri
             ))}
           </div>
         </div>
-        <div style={{ ...card, gridColumn: 'span 4' }}>
+        <div style={card} className="span-all">
           <div style={{ fontWeight: 600, marginBottom: 8, fontSize: 14 }}>Top hiring councils</div>
           {s.top.map((r) => (
             <div key={r.council_id} style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6, fontSize: 13 }}>
-              <span style={{ width: 220, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{r.council}</span>
+              <span className="hrow-name">{r.council}</span>
               <div style={{ flex: 1, background: '#f0f0f0', borderRadius: 4, height: 14 }}>
                 <div style={{ width: `${(r.jobs_count / s.maxTop) * 100}%`, background: '#0b6e4f', height: '100%', borderRadius: 4 }} />
               </div>

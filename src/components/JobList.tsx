@@ -30,12 +30,14 @@ export default function JobList({
           value={q}
           onChange={(e) => setQ(e.target.value)}
           placeholder="Search job titles… (e.g. planner, engineer)"
-          style={{ flex: 1, padding: '8px 10px', borderRadius: 8, border: '1px solid #ddd' }}
+          aria-label="Search job titles"
+          style={{ flex: 1, minHeight: 44, padding: '8px 10px', borderRadius: 8, border: '1px solid #ddd' }}
         />
         <select
           value={selected || 'all'}
           onChange={(e) => onSelect(e.target.value === 'all' ? null : e.target.value)}
-          style={{ padding: '8px 10px', borderRadius: 8 }}
+          aria-label="Filter by council"
+          style={{ padding: '8px 10px', minHeight: 44, borderRadius: 8 }}
         >
           <option value="all">All councils</option>
           {councils.map((c) => (

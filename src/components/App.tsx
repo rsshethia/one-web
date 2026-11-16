@@ -15,9 +15,9 @@ const TABS: { id: View; label: string }[] = [
 ];
 
 const tabStyle = (active: boolean): React.CSSProperties => ({
-  padding: '8px 16px', borderRadius: 8, border: '1px solid transparent',
+  padding: '8px 16px', minHeight: 44, borderRadius: 8, border: '1px solid transparent',
   background: active ? '#0b6e4f' : 'transparent', color: active ? '#fff' : '#333',
-  cursor: 'pointer', fontSize: 14, fontWeight: active ? 600 : 400,
+  cursor: 'pointer', fontSize: 14, fontWeight: active ? 600 : 400, whiteSpace: 'nowrap',
 });
 
 export default function App({ rows, state }: { rows: LgaRow[]; state: string }) {
@@ -27,28 +27,28 @@ export default function App({ rows, state }: { rows: LgaRow[]; state: string }) 
   const sel = rows.find((r) => r.council_id === selected) || null;
 
   return (
-    <div style={{ height: '100vh', display: 'flex', flexDirection: 'column' }}>
-      <nav style={{ display: 'flex', alignItems: 'center', gap: 4, padding: '10px 16px', background: '#fff', borderBottom: '1px solid #e2e2e2' }}>
-        <strong style={{ marginRight: 12, fontSize: 15 }}>{state} council jobs</strong>
+    <div className="app-shell">
+      <nav className="topnav">
+        <strong className="brand">{state} council jobs</strong>
         {TABS.map((t) => (
           <button key={t.id} onClick={() => setView(t.id)} style={tabStyle(view === t.id)}>
             {t.label}
           </button>
         ))}
-        <span style={{ flex: 1 }} />
-        <span style={{ fontSize: 12, color: '#666', marginRight: 12 }}>{total} roles</span>
-        <a href={GITHUB_URL} target="_blank" rel="noopener" style={{ fontSize: 14, color: '#0b4ea2', textDecoration: 'none' }}>
+        <span style={{ flex: 'none' }} />
+        <span className="role-count">{total} roles</span>
+        <a href={GITHUB_URL} target="_blank" rel="noopener" className="gh-link">
           GitHub ↗
         </a>
       </nav>
 
       <div style={{ flex: 1, overflow: view === 'map' ? 'hidden' : 'auto' }}>
         {view === 'map' && (
-          <div style={{ display: 'flex', height: '100%' }}>
-            <div style={{ width: '55%', height: '100%' }}>
+          <div className="map-layout">
+            <div className="map-pane">
               <Map rows={rows} selected={selected} onPick={setSelected} />
             </div>
-            <div style={{ width: '45%', height: '100%', overflowY: 'auto', padding: '20px 24px', background: '#fafafa' }}>
+            <div className="detail-pane">
               {!sel ? (
                 <p style={{ color: '#777', fontSize: 15, padding: '40px 10px', textAlign: 'center' }}>
                   Click a shaded council area to see its open roles here — click water to reset.
@@ -83,7 +83,7 @@ export default function App({ rows, state }: { rows: LgaRow[]; state: string }) 
           </div>
         )}
         {view === 'list' && (
-          <div style={{ maxWidth: 860, margin: '0 auto', padding: '20px 24px' }}>
+          <div className="page-wrap narrow">
             <h2 style={{ marginBottom: 4 }}>All open roles</h2>
             <p style={{ color: '#555', marginBottom: 12, fontSize: 13 }}>
               {rows.length} councils · snapshot {rows.map((r) => r.scraped_at || '').filter(Boolean).sort().pop() || '—'} · links open the official council portal in a new tab.
@@ -92,12 +92,12 @@ export default function App({ rows, state }: { rows: LgaRow[]; state: string }) 
           </div>
         )}
         {view === 'analytics' && (
-          <div style={{ maxWidth: 960, margin: '0 auto', padding: '20px 24px' }}>
+          <div className="page-wrap wide">
             <Analytics rows={rows} state={state} />
           </div>
         )}
         {view === 'about' && (
-          <div style={{ maxWidth: 860, margin: '0 auto', padding: '20px 24px' }}>
+          <div className="page-wrap narrow">
             <About />
           </div>
         )}
