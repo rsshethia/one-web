@@ -7,6 +7,7 @@ import react from '@astrojs/react';
 // Later: switch to output:'server' + adapter for live Neon queries.
 export default defineConfig({
   output: 'static',
+  server: { port: 8000 },
   integrations: [react()],
   // If deploying to GitHub Pages project site, set base: '/<repo>/'
   // base: '/',

@@ -6,7 +6,7 @@ Astro + React. Static output — same build runs locally, on Render Static, and 
 
 ```bash
 npm install
-npm run dev     # http://localhost:4321, serves committed src/data snapshot
+npm run dev     # http://localhost:8000, serves committed src/data snapshot
 ```
 
 Set `PUBLIC_MAPBOX_TOKEN` in `.env` to enable tiles (else list still works).
