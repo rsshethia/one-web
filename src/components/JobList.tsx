@@ -2,14 +2,23 @@ import { useMemo, useState } from 'react';
 import { searchJobs } from '../lib/data';
 import type { LgaRow } from '../lib/types';
 
-export default function JobList({ rows, state }: { rows: LgaRow[]; state: string }) {
+export default function JobList({
+  rows,
+  state,
+  selected,
+  onSelect,
+}: {
+  rows: LgaRow[];
+  state: string;
+  selected: string | null;
+  onSelect: (id: string | null) => void;
+}) {
   const [q, setQ] = useState('');
-  const [council, setCouncil] = useState('all');
   const results = useMemo(() => {
     let r = searchJobs(rows, q, state);
-    if (council !== 'all') r = r.filter((j) => j.council_id === council);
+    if (selected) r = r.filter((j) => j.council_id === selected);
     return r.slice(0, 500);
-  }, [rows, q, council, state]);
+  }, [rows, q, selected, state]);
   const councils = useMemo(
     () => rows.filter((r) => !r.state || r.state === state).map((r) => ({ id: r.council_id, name: r.council })),
     [rows, state],
@@ -23,7 +32,11 @@ export default function JobList({ rows, state }: { rows: LgaRow[]; state: string
           placeholder="Search job titles… (e.g. planner, engineer)"
           style={{ flex: 1, padding: '8px 10px', borderRadius: 8, border: '1px solid #ddd' }}
         />
-        <select value={council} onChange={(e) => setCouncil(e.target.value)} style={{ padding: '8px 10px', borderRadius: 8 }}>
+        <select
+          value={selected || 'all'}
+          onChange={(e) => onSelect(e.target.value === 'all' ? null : e.target.value)}
+          style={{ padding: '8px 10px', borderRadius: 8 }}
+        >
           <option value="all">All councils</option>
           {councils.map((c) => (
             <option key={c.id} value={c.id}>{c.name}</option>

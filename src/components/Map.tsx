@@ -1,59 +1,129 @@
 import { useEffect, useRef } from 'react';
 import type { LgaRow } from '../lib/types';
 
-// Mapbox choropleth island. Port of map/app.js. Token via PUBLIC_MAPBOX_TOKEN.
 declare const mapboxgl: any;
 
-function colorFor(n: number) {
-  if (n <= 0) return '#e5e5e5';
-  if (n <= 3) return '#a7d7c5';
-  if (n <= 9) return '#4fae8c';
-  return '#0b6e4f';
+function waitForMapbox(timeoutMs: number): Promise<any> {
+  return new Promise((resolve, reject) => {
+    if ((window as any).mapboxgl) return resolve((window as any).mapboxgl);
+    const started = Date.now();
+    const t = setInterval(() => {
+      if ((window as any).mapboxgl) {
+        clearInterval(t);
+        resolve((window as any).mapboxgl);
+      } else if (Date.now() - started > timeoutMs) {
+        clearInterval(t);
+        reject(new Error('Mapbox GL failed to load (CDN unreachable?)'));
+      }
+    }, 200);
+  });
 }
 
-export default function Map({ rows, onPick }: { rows: LgaRow[]; onPick: (id: string | null) => void }) {
+export default function Map({
+  rows,
+  selected,
+  onPick,
+}: {
+  rows: LgaRow[];
+  selected: string | null;
+  onPick: (id: string | null) => void;
+}) {
   const ref = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<any>(null);
+  const onPickRef = useRef(onPick);
+  onPickRef.current = onPick;
 
   useEffect(() => {
-    if (!ref.current || !(window as any).mapboxgl) return;
+    let cancelled = false;
+    let map: any = null;
     const token = (import.meta as any).env.PUBLIC_MAPBOX_TOKEN || '';
     if (!token) {
-      ref.current.innerHTML = '<p style="padding:20px;color:#666">Set PUBLIC_MAPBOX_TOKEN in web/.env to enable the map.</p>';
+      if (ref.current)
+        ref.current.innerHTML =
+          '<p style="padding:20px;color:#666">Set PUBLIC_MAPBOX_TOKEN in .env to enable the map. The job list still works.</p>';
       return;
     }
-    (window as any).mapboxgl.accessToken = token.trim();
-    const map = new (window as any).mapboxgl.Map({
-      container: ref.current,
-      style: 'mapbox://styles/mapbox/light-v11',
-      center: [145.2, -37.4],
-      zoom: 6,
-    });
-    let cancelled = false;
-    Promise.all([
-      fetch(`${import.meta.env.BASE_URL}geo/vic_lga.geojson`).then((r) => r.json()),
-    ]).then(([geo]) => {
-      if (cancelled) return;
-      const byAbs: Record<string, number> = {};
-      for (const r of rows) if (r.abs_name) byAbs[r.abs_name] = r.jobs_count;
-      for (const f of geo.features) f.properties.jobs = byAbs[f.properties.LGA_NAME11] || 0;
-      map.on('load', () => {
-        map.addSource('lgas', { type: 'geojson', data: geo });
-        map.addLayer({ id: 'lgas-fill', type: 'fill', source: 'lgas',
-          paint: { 'fill-color': ['case', ['==', ['get', 'jobs'], 0], '#e5e5e5', ['<=', ['get', 'jobs'], 3], '#a7d7c5', ['<=', ['get', 'jobs'], 9], '#4fae8c', '#0b6e4f'], 'fill-opacity': 0.65 } });
-        map.addLayer({ id: 'lgas-line', type: 'line', source: 'lgas', paint: { 'line-color': '#fff', 'line-width': 1 } });
-        map.on('click', 'lgas-fill', (e: any) => {
-          const abs = e.features[0].properties.LGA_NAME11;
-          const hit = rows.find((r) => r.abs_name === abs);
-          onPick(hit ? hit.council_id : null);
+    waitForMapbox(10000)
+      .then((mb) => {
+        if (cancelled || !ref.current) return;
+        mb.accessToken = token.trim();
+        map = new mb.Map({
+          container: ref.current,
+          style: 'mapbox://styles/mapbox/light-v11',
+          center: [145.2, -37.4],
+          zoom: 6,
         });
-        map.on('click', (e: any) => {
-          if (!map.queryRenderedFeatures(e.point, { layers: ['lgas-fill'] }).length) onPick(null);
+        mapRef.current = map;
+        return Promise.all([
+          fetch(`${(import.meta as any).env.BASE_URL}geo/vic_lga.geojson`).then((r) => {
+            if (!r.ok) throw new Error('boundary file missing: ' + r.status);
+            return r.json();
+          }),
+        ]).then(([geo]) => {
+          if (cancelled) return;
+          const byAbs: Record<string, number> = {};
+          for (const r of rows) if (r.abs_name) byAbs[r.abs_name] = r.jobs_count;
+          for (const f of geo.features) f.properties.jobs = byAbs[f.properties.LGA_NAME11] || 0;
+          map.on('load', () => {
+            map.addSource('lgas', { type: 'geojson', data: geo });
+            map.addLayer({
+              id: 'lgas-fill', type: 'fill', source: 'lgas',
+              paint: {
+                'fill-color': ['case', ['==', ['get', 'jobs'], 0], '#e5e5e5', ['<=', ['get', 'jobs'], 3], '#a7d7c5', ['<=', ['get', 'jobs'], 9], '#4fae8c', '#0b6e4f'],
+                'fill-opacity': 0.65,
+              },
+            });
+            map.addLayer({ id: 'lgas-line', type: 'line', source: 'lgas', paint: { 'line-color': '#fff', 'line-width': 1 } });
+            map.addLayer({
+              id: 'lgas-hl', type: 'line', source: 'lgas',
+              paint: { 'line-color': '#111', 'line-width': 2.5 },
+              filter: ['==', ['get', 'LGA_NAME11'], ''],
+            });
+            map.on('click', 'lgas-fill', (e: any) => {
+              const abs = e.features[0].properties.LGA_NAME11;
+              const hit = rows.find((r) => r.abs_name === abs);
+              map.setFilter('lgas-hl', ['==', ['get', 'LGA_NAME11'], abs]);
+              onPickRef.current(hit ? hit.council_id : null);
+            });
+            map.on('click', (e: any) => {
+              if (!map.queryRenderedFeatures(e.point, { layers: ['lgas-fill'] }).length) {
+                map.setFilter('lgas-hl', ['==', ['get', 'LGA_NAME11'], '']);
+                onPickRef.current(null);
+              }
+            });
+            map.on('mouseenter', 'lgas-fill', () => { map.getCanvas().style.cursor = 'pointer'; });
+            map.on('mouseleave', 'lgas-fill', () => { map.getCanvas().style.cursor = ''; });
+          });
+          map.on('error', (e: any) => {
+            const status = e?.error?.status;
+            if (status === 403 && ref.current) {
+              ref.current.insertAdjacentHTML(
+                'beforeend',
+                '<p style="position:absolute;left:12px;bottom:64px;background:#fdecea;color:#8f1d1d;border:1px solid #f3c1c1;border-radius:8px;padding:10px 12px;font-size:13px;max-width:320px">Mapbox refused this token (403) — add this page\u2019s exact address to the token\u2019s URL restrictions.</p>',
+              );
+            }
+          });
         });
+      })
+      .catch((err) => {
+        console.error(err);
+        if (ref.current && !cancelled)
+          ref.current.innerHTML = `<p style="padding:20px;color:#666">Map failed to load: ${(err as Error).message}. The job list still works.</p>`;
       });
-    });
-    return () => { cancelled = true; map.remove(); };
+    return () => {
+      cancelled = true;
+      try { map && map.remove(); } catch { /* already gone */ }
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return <div ref={ref} style={{ width: '100%', height: '100%', minHeight: 420 }} />;
+  // highlight the council selected from the list
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !map.getLayer('lgas-hl')) return;
+    const hit = rows.find((r) => r.council_id === selected);
+    map.setFilter('lgas-hl', ['==', ['get', 'LGA_NAME11'], hit?.abs_name || '']);
+  }, [selected, rows]);
+
+  return <div ref={ref} style={{ width: '100%', height: '100%', minHeight: 420, position: 'relative' }} />;
 }

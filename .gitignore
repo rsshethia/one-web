@@ -6,5 +6,9 @@ dist/
 # secrets — set PUBLIC_MAPBOX_TOKEN + DATABASE_URL in hosting env, never commit
 .env
 
+# private working files (handover + review) — local only, never commit
+SESSION.md
+review/
+
 # astro generated types
 src/env.d.ts
