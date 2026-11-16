@@ -76,7 +76,13 @@ export default function Map({
             map.addLayer({ id: 'lgas-line', type: 'line', source: 'lgas', paint: { 'line-color': '#fff', 'line-width': 1 } });
             map.addLayer({
               id: 'lgas-hl', type: 'line', source: 'lgas',
-              paint: { 'line-color': '#111', 'line-width': 2.5 },
+              paint: {
+                'line-color': '#111',
+                'line-width': 3.5,
+                // dashed outline = non-colour cue: selection stays visible to
+                // colour-blind users and over the darkest fill bucket
+                'line-dasharray': [3, 1.5],
+              },
               filter: ['==', ['get', 'LGA_NAME11'], ''],
             });
             map.on('click', 'lgas-fill', (e: any) => {
@@ -125,5 +131,54 @@ export default function Map({
     map.setFilter('lgas-hl', ['==', ['get', 'LGA_NAME11'], hit?.abs_name || '']);
   }, [selected, rows]);
 
-  return <div ref={ref} style={{ width: '100%', height: '100%', minHeight: 420, position: 'relative' }} />;
+  // legend buckets with live counts (same thresholds as the fill paint)
+  const buckets = [
+    { label: '0', color: '#e5e5e5', n: rows.filter((r) => r.jobs_count === 0).length },
+    { label: '1–3', color: '#a7d7c5', n: rows.filter((r) => r.jobs_count >= 1 && r.jobs_count <= 3).length },
+    { label: '4–9', color: '#4fae8c', n: rows.filter((r) => r.jobs_count >= 4 && r.jobs_count <= 9).length },
+    { label: '10+', color: '#0b6e4f', n: rows.filter((r) => r.jobs_count >= 10).length },
+  ];
+  const councils = [...rows].sort((a, b) => a.council.localeCompare(b.council));
+
+  return (
+    <div style={{ width: '100%', height: '100%', minHeight: 420, position: 'relative' }}>
+      <div ref={ref} style={{ width: '100%', height: '100%', minHeight: 420 }} />
+      {/* keyboard / screen-reader path: full council picker + reset, no canvas needed */}
+      <div style={{ position: 'absolute', top: 10, left: 10, right: 10, display: 'flex', gap: 8 }}>
+        <label htmlFor="map-council-picker" style={{ position: 'absolute', left: -9999 }}>
+          Choose a council
+        </label>
+        <select
+          id="map-council-picker"
+          value={selected || ''}
+          onChange={(e) => onPickRef.current(e.target.value || null)}
+          style={{ flex: 1, padding: '8px 10px', borderRadius: 8, border: '1px solid #ccc', background: '#fff', fontSize: 14 }}
+        >
+          <option value="">Choose a council…</option>
+          {councils.map((c) => (
+            <option key={c.council_id} value={c.council_id}>
+              {c.council} ({c.jobs_count})
+            </option>
+          ))}
+        </select>
+        <button
+          onClick={() => onPickRef.current(null)}
+          disabled={!selected}
+          style={{ padding: '8px 14px', borderRadius: 8, border: '1px solid #ccc', background: selected ? '#fff' : '#f0f0f0', cursor: selected ? 'pointer' : 'default', fontSize: 14 }}
+        >
+          Reset
+        </button>
+      </div>
+      {/* on-map legend with thresholds + live counts */}
+      <div style={{ position: 'absolute', left: 12, bottom: 28, background: '#fff', borderRadius: 8, padding: '10px 12px', fontSize: 12, color: '#333', boxShadow: '0 1px 4px rgba(0,0,0,.25)' }}>
+        <strong>Open roles</strong>
+        {buckets.map((b) => (
+          <div key={b.label} style={{ display: 'flex', alignItems: 'center', gap: 6, marginTop: 4 }}>
+            <span style={{ width: 14, height: 14, borderRadius: 3, display: 'inline-block', background: b.color, border: b.label === '0' ? '1px solid #bbb' : 'none' }} />
+            {b.label} · {b.n}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
 }
